@@ -1,0 +1,1445 @@
+{
+	"@context": "http://www.w3.org/ns/csvw",
+	"dialect": {
+		"header": true,
+		"headerRowCount": 1,
+		"delimiter": "\t"
+	},
+	"tables": [
+		{
+			"url": "sub.tsv",
+			"tableSchema": {
+				"aboutUrl": "readme.htm",
+				"primaryKey": "adsh",
+				"columns": [
+					{
+						"name": "adsh",
+						"titles": [
+							"Accession Number"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "Accession Number. The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "cik",
+						"titles": [
+							"Central Index Key"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Central Index Key (CIK). Ten-digit number assigned by the Commission to each registrant that submits filings."
+					},
+					{
+						"name": "name",
+						"titles": [
+							"Registrant Name"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of registrant. This corresponds to the name of the legal entity as recorded in EDGAR as of the filing date."
+					},
+					{
+						"name": "countryba",
+						"titles": [
+							"Business Address Country"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "The ISO 3166-1 country of the registrant's business address."
+					},
+					{
+						"name": "stprba",
+						"titles": [
+							"Business Address State or Province"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "The state or province of the registrant's business address, if field countryba is US or CA."
+					},
+					{
+						"name": "cityba",
+						"titles": [
+							"Business Address City"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "The city of the registrant's business address."
+					},
+					{
+						"name": "zipba",
+						"titles": [
+							"Business Address Zip or Postal Code"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "The zip code of the registrant's business address."
+					},
+					{
+						"name": "bas1",
+						"titles": [
+							"Business Address Street 1"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "The first line of the street of the registrant's business address."
+					},
+					{
+						"name": "bas2",
+						"titles": [
+							"Business Address Street 2"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "The second line of the street of the registrant's business address."
+					},
+					{
+						"name": "baph",
+						"titles": [
+							"Business Address Phone"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "The phone number of the registrant's business address."
+					},
+					{
+						"name": "countryma",
+						"titles": [
+							"Mailing Address Country"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "The ISO 3166-1 country of the registrant's mailing address."
+					},
+					{
+						"name": "stprma",
+						"titles": [
+							"Mailing Address State or Province"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "The state or province of the registrant's mailing address, if field countryma is US or CA."
+					},
+					{
+						"name": "cityma",
+						"titles": [
+							"Mailing Address City"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 30
+						},
+						"dc:description": "The city of the registrant's mailing address."
+					},
+					{
+						"name": "zipma",
+						"titles": [
+							"Mailing Address Zip or Postal Code"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "The zip code of the registrant's mailing address."
+					},
+					{
+						"name": "mas1",
+						"titles": [
+							"Mailing Address Street1"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "The first line of the street of the registrant's mailing address."
+					},
+					{
+						"name": "mas2",
+						"titles": [
+							"Mailing Address Street2"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "The second line of the street of the registrant's mailing address."
+					},
+					{
+						"name": "countryinc",
+						"titles": [
+							"Country of Incorporation"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "The ISO 3166-1 country of incorporation for the registrant."
+					},
+					{
+						"name": "stprinc",
+						"titles": [
+							"State or Province of Incorporation"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "The state or province of incorporation for the registrant, if countryinc is US or CA, otherwise NULL."
+					},
+					{
+						"name": "ein",
+						"titles": [
+							"Employee Identification Number"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "Employee Identification Number, 9-digit identification number assigned by the Internal Revenue Service to business entities operating in the United States."
+					},
+					{
+						"name": "former",
+						"titles": [
+							"Former Name"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Most recent former name of the registrant, if any."
+					},
+					{
+						"name": "changed",
+						"titles": [
+							"Date of Name Change"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "Date of change from the former name, if any."
+					},
+					{
+						"name": "afs",
+						"titles": [
+							"Accelerated Filer Status"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 5
+						},
+						"dc:description": "Filer status with the Commission at the time of submission: 1-LAF=Large Accelerated, 2-ACC=Accelerated, 4-NON=Non-Accelerated, NULL=not assigned."
+					},
+					{
+						"name": "wksi",
+						"titles": [
+							"Well-known Seasoned Issuer"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "Well Known Seasoned Issuer (WKSI). An issuer that meets specific Commission requirements at some point during a 60-day period preceding the date the issuer satisfies its obligation to update its shelf registration statement."
+					},
+					{
+						"name": "fye",
+						"titles": [
+							"FY End Date"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 4
+						},
+						"dc:description": "Fiscal Year End Date"
+					},
+					{
+						"name": "form",
+						"titles": [
+							"Submission Type"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "The submission type of the registrant's filing."
+					},
+					{
+						"name": "period",
+						"titles": [
+							"Report Period"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "Balance Sheet Date, rounded to nearest month-end."
+					},
+					{
+						"name": "fy",
+						"titles": [
+							"Fiscal Year"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 4
+						},
+						"dc:description": "Fiscal Year Focus (as defined in the EDGAR XBRL Guide 3.1.8."
+					},
+					{
+						"name": "fp",
+						"titles": [
+							"Fiscal Period"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "Fiscal Period Focus (as defined in the EDGAR XBRL Guide 3.1.8)."
+					},
+					{
+						"name": "filed",
+						"titles": [
+							"Date Filed"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "The date of the registrant's filing with the Commission."
+					},
+					{
+						"name": "accepted",
+						"titles": [
+							"Acceptance Datetime"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "date",
+							"format": "YYYYMMDD HH:MM:SS"
+						},
+						"dc:description": "The acceptance date and time of the registrant's filing with the Commission."
+					},
+					{
+						"name": "prevrpt",
+						"titles": [
+							"Subsequently Amended Flag"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "Previous Report ?TRUE indicates that the submission information was subsequently amended prior to the end cutoff date of the table."
+					},
+					{
+						"name": "detail",
+						"titles": [
+							"Detail Tagged"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "TRUE indicates that the XBRL submission contains quantitative disclosures within the footnotes and schedules at the required detail level (e.g., each amount)."
+					},
+					{
+						"name": "instance",
+						"titles": [
+							"Instance Filename"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 40
+						},
+						"dc:description": "The name of the extracted XBRL Instance Document+. The name often begins with the company ticker symbol."
+					},
+					{
+						"name": "pubfloatusd",
+						"titles": [
+							"Public Float"
+						],
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Public float, in USD, if provided in this submission."
+					},
+					{
+						"name": "floatdate",
+						"titles": [
+							"Public Float Measurement Date"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "Date on which the public float was measured by the filer."
+					},
+					{
+						"name": "inlineurl",
+						"titles": [
+							"URL to inline XBRL filing"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "URL to inline XBRL filing."
+					}
+				]
+			}
+		},
+		{
+			"url": "tag.tsv",
+			"tableSchema": {
+				"aboutUrl": "readme.htm",
+				"primaryKey": [
+					"tag",
+					"version"
+				],
+				"columns": [
+					{
+						"name": "tag",
+						"titles": [
+							"Tag Name"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 256
+						},
+						"dc:description": "The unique identifier (name) for a tag in a specific taxonomy release."
+					},
+					{
+						"name": "version",
+						"titles": [
+							"Taxonomy"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "For a standard tag, an identifier for the taxonomy; otherwise, the accession number where the tag was defined."
+					},
+					{
+						"name": "custom",
+						"titles": [
+							"Custom Tag"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "1 if tag is custom (version=adsh), 0 if it is standard. Note: This flag is technically redundant with the version and adsh fields."
+					},
+					{
+						"name": "abstract",
+						"titles": [
+							"Abstract Tag"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "1 if the tag is not used to tag data."
+					},
+					{
+						"name": "datatype",
+						"titles": [
+							"Data Type"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "The data type (e.g., monetary) for the tag."
+					},
+					{
+						"name": "iord",
+						"titles": [
+							"Instance or Duration"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "\"I\" if the value is a point in time, or \"D\" if the value is a duration."
+					},
+					{
+						"name": "crdr",
+						"titles": [
+							"Debit or Credit"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "If datatype = monetary, then the tag's natural accounting balance from the perspective of the balance sheet or income statement (debit or credit); if not defined, then NULL."
+					},
+					{
+						"name": "tlabel",
+						"titles": [
+							"Label"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "If a standard tag, then the label text provided by the taxonomy, otherwise the text provided by the filer.? A tag which had neither would have a NULL value here."
+					},
+					{
+						"name": "doc",
+						"titles": [
+							"Definition"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 2048
+						},
+						"dc:description": "The detailed definition for the tag. If a standard tag, then the text provided by the taxonomy, otherwise the text assigned by the filer.? Some tags have neither, in which case this field is NULL."
+					}
+				]
+			}
+		},
+		{
+			"url": "num.tsv",
+			"tableSchema": {
+				"aboutUrl": "readme.htm",
+				"primaryKey": [
+					"adsh",
+					"tag",
+					"version",
+					"ddate",
+					"uom",
+					"segments"
+				],
+				"columns": [
+					{
+						"name": "adsh",
+						"titles": [
+							"Accession Number"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "Accession Number. The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "tag",
+						"titles": [
+							"Tag Name"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 256
+						},
+						"dc:description": "The unique identifier (name) for a tag in a specific taxonomy release."
+					},
+					{
+						"name": "version",
+						"titles": [
+							"Taxonomy"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "For a standard tag, an identifier for the taxonomy; otherwise, the accession number where the tag was defined."
+					},
+					{
+						"name": "ddate",
+						"titles": [
+							"Data Date"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "The end date for the data value, rounded to the nearest month end."
+					},
+					{
+						"name": "uom",
+						"titles": [
+							"Unit of Measure"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "The unit of measure for the value."
+					},
+					{
+						"name": "segments",
+						"titles": [
+							"Axis/Member Tags"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 1024
+						},
+						"dc:description": "Tags used to represent axis and member reporting. Axis tags are on the left of the equal sign (=) and members on the right. Delimited by a semicolon. The version of tag is in parenthesis with custom tags having the adsh."
+					},
+					{
+						"name": "dimn",
+						"titles": [
+							"Number of Dimensions"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "Small integer representing the number of dimensions.? Note that this value is a function of the dimension segments."
+					},
+					{
+						"name": "value",
+						"titles": [
+							"Value"
+						],
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "The value. This is not scaled; it is as found in the submission but is rounded to four digits to the right of the decimal point."
+					},
+					{
+						"name": "footnote",
+						"titles": [
+							"Footnote"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "The plain text of any superscripted footnotes on the value, if any, as shown on the statement page, truncated to 512 characters."
+					},
+					{
+						"name": "footlen",
+						"titles": [
+							"Footnote Length"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": -32768,
+							"maxInclusive": 32767
+						},
+						"dc:description": "Number of bytes in the plain text of the footnote prior to truncation; zero if no footnote."
+					}
+				]
+			}
+		},
+		{
+			"url": "txt.tsv",
+			"tableSchema": {
+				"aboutUrl": "readme.htm",
+				"primaryKey": [
+					"adsh",
+					"tag",
+					"version",
+					"ddate",
+					"segments"
+				],
+				"columns": [
+					{
+						"name": "adsh",
+						"titles": [
+							"Accession Number"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "Accession Number. The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "tag",
+						"titles": [
+							"Tag Name"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 256
+						},
+						"dc:description": "The unique identifier (name) for a tag in a specific taxonomy release."
+					},
+					{
+						"name": "version",
+						"titles": [
+							"Taxonomy"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "For a standard tag, an identifier for the taxonomy; otherwise, the accession number where the tag was defined.?"
+					},
+					{
+						"name": "ddate",
+						"titles": [
+							"Data Date"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "The end date for the data value, rounded to the nearest month end."
+					},
+					{
+						"name": "segments",
+						"titles": [
+							"Axis/Member Tags"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 1024
+						},
+						"dc:description": "Tags used to represent axis and member reporting. Axis tags are on the left of the equal sign (=) and members on the right. Delimited by a semicolon. The version of tag is in parenthesis with custom tags having the adsh."
+					},
+					{
+						"name": "dimn",
+						"titles": [
+							"Number of Dimensions"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "Small integer representing the number of dimensions, useful for sorting.? Note that this value is function of the dimension segments."
+					},
+					{
+						"name": "value",
+						"titles": [
+							"Text"
+						],
+						"datatype": {
+							"base": "string"
+						},
+						"dc:description": "The value, with all whitespace normalized, that is, all sequences of line feeds, carriage returns, tabs, non-breaking spaces, and spaces having been collapsed to a single space, and no leading or trailing spaces.? Escaped XML that appears in EDGAR \"Text Block\" tags is processed to remove all mark-up (comments, processing instructions, elements, attributes).? The value is truncated to a maximum number of bytes.? The resulting text is not intended for end user display but only for text analysis applications.?"
+					},
+					{
+						"name": "txtlen",
+						"titles": [
+							"Text Length"
+						],
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": -32768,
+							"maxInclusive": 32767
+						},
+						"dc:description": "The original length of the whitespace normalized value."
+					},
+					{
+						"name": "footnote",
+						"titles": [
+							"Footnote"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "The plain text of any superscripted footnotes on the value, as shown on the page, truncated to 512 characters, or if there is no footnote, then this field will be blank."
+					},
+					{
+						"name": "footlen",
+						"titles": [
+							"Footnote Length"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": -32768,
+							"maxInclusive": 32767
+						},
+						"dc:description": "Number of bytes in the plain text of the footnote prior to truncation."
+					}
+				]
+			}
+		},
+		{
+			"url": "pre.tsv",
+			"tableSchema": {
+				"aboutUrl": "readme.htm",
+				"primaryKey": [
+					"adsh",
+					"report",
+					"line"
+				],
+				"columns": [
+					{
+						"name": "adsh",
+						"titles": [
+							"Accession Number"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "Accession Number. The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "report",
+						"titles": [
+							"Report"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Represents the report grouping. The numeric value refers to the \"R file\" as computed by the renderer and posted on the EDGAR website.? Note that in some situations the numbers skip."
+					},
+					{
+						"name": "line",
+						"titles": [
+							"Line"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Represents the tag's presentation line order for a given report. Together with the statement and report field, presentation location, order and grouping can be derived."
+					},
+					{
+						"name": "stmt",
+						"titles": [
+							"Statement"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 2
+						},
+						"dc:description": "If applicable, the financial statement location to which the value of the \"report\" field pertains."
+					},
+					{
+						"name": "inpth",
+						"titles": [
+							"Parenthentical"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "1 indicates that the value was presented \"parenthetically\" instead of in fields within the disclosure. For example: Receivables (net of allowance for bad debts of $200 in 2012) $700."
+					},
+					{
+						"name": "tag",
+						"titles": [
+							"Tag Name"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 256
+						},
+						"dc:description": "The tag chosen by the filer for this line item."
+					},
+					{
+						"name": "version ",
+						"titles": [
+							"Taxonomy"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "The taxonomy identifier if the tag is a standard tag, otherwise adsh."
+					},
+					{
+						"name": "prole",
+						"titles": [
+							"Preferred Role"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 50
+						},
+						"dc:description": "The XBRL link \"role\" of the preferred label, using only the portion of the role URI after the last \"/\"."
+					},
+					{
+						"name": "plabel",
+						"titles": [
+							"Label"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "The text presented on the line item, also known as a \"preferred\" label."
+					},
+					{
+						"name": "negating",
+						"titles": [
+							"Negating"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 1
+						},
+						"dc:description": "Flag to indicate whether the prole is treated as negating by the renderer."
+					}
+				]
+			}
+		},
+		{
+			"url": "cal.tsv",
+			"tableSchema": {
+				"aboutUrl": "readme.htm",
+				"primaryKey": [
+					"adsh",
+					"grp",
+					"arc"
+				],
+				"columns": [
+					{
+						"name": "adsh",
+						"titles": [
+							"Accession Number"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "Accession Number. The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "grp",
+						"titles": [
+							"Group"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "Sequential number for grouping arcs in a submission."
+					},
+					{
+						"name": "arc",
+						"titles": [
+							"Arc"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "Sequential number for arcs within a group in a submission."
+					},
+					{
+						"name": "negative",
+						"titles": [
+							"Negative Weight"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "Indicates a weight of -1 (TRUE if the arc is negative), but typically +1 (FALSE)."
+					},
+					{
+						"name": "ptag",
+						"titles": [
+							"Parent Tag"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 256
+						},
+						"dc:description": "The tag for the parent of the arc"
+					},
+					{
+						"name": "pversion ",
+						"titles": [
+							"Parent Taxonomy"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "The version of the tag for the parent of the arc"
+					},
+					{
+						"name": "ctag",
+						"titles": [
+							"Child Tag"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 256
+						},
+						"dc:description": "The tag for the child of the arc"
+					},
+					{
+						"name": "cversion",
+						"titles": [
+							"Child Taxonomy"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "The version of the tag for the child of the arc"
+					}
+				]
+			}
+		},
+		{
+			"url": "non.tsv",
+			"tableSchema": {
+				"aboutUrl": "readme.htm",
+				"columns": [
+					{
+						"name": "adsh",
+						"titles": [
+							"Accession Number"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "Accession Number. The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "cik",
+						"titles": [
+							"Central Index Key"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Central Index Key (CIK). Ten-digit number assigned by the Commission to each registrant that submits filings."
+					},
+					{
+						"name": "name",
+						"titles": [
+							"Registrant Name"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of registrant. This corresponds to the name of the legal entity as recorded in EDGAR as of the filing date."
+					},
+					{
+						"name": "form",
+						"titles": [
+							"Submission Type"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "The submission type of the registrant's filing."
+					},
+					{
+						"name": "filed",
+						"titles": [
+							"Date Filed"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "The date of the registrant's filing with the Commission."
+					},
+					{
+						"name": "period",
+						"titles": [
+							"Report Period"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "Balance Sheet Date, rounded to nearest month-end."
+					},
+					{
+						"name": "ddate",
+						"titles": [
+							"Data Date"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "The end date for the data value, rounded to the nearest month end."
+					},
+					{
+						"name": "tag",
+						"titles": [
+							"Tag Name"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 256
+						},
+						"dc:description": "The unique identifier (name) for a tag in a specific taxonomy release."
+					},
+					{
+						"name": "version",
+						"titles": [
+							"Taxonomy"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "For a standard tag, an identifier for the taxonomy; otherwise, the accession number where the tag was defined."
+					},
+					{
+						"name": "label",
+						"titles": [
+							"Label"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "If a standard tag, then the label text provided by the taxonomy, otherwise the text provided by the filer.? A tag which had neither would have a NULL value here."
+					},
+					{
+						"name": "segment",
+						"titles": [
+							"Axis/Member Tags"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 1024
+						},
+						"dc:description": "Tags used to represent axis and member reporting. Axis tags are on the left of the equal sign (=) and members on the right. Delimited by a semicolon. The version of tag is in parenthesis with custom tags having the adsh."
+					},
+					{
+						"name": "value",
+						"titles": [
+							"Value"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "The value, text whitespace normalized, numeric rounded four digits to right of decimal."
+					},
+					{
+						"name": "indexurl",
+						"titles": [
+							"URL to filing index"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "URL of filing index."
+					}
+				]
+			}
+		},
+		{
+			"url": "soi.tsv",
+			"tableSchema": {
+				"aboutUrl": "readme.htm",
+				"columns": [
+					{
+						"name": "adsh",
+						"titles": [
+							"Accession Number"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 20
+						},
+						"dc:description": "Accession Number. The 20-character string formed from the 18-digit number assigned by the Commission to each EDGAR submission."
+					},
+					{
+						"name": "cik",
+						"titles": [
+							"Central Index Key"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Central Index Key (CIK). Ten-digit number assigned by the Commission to each registrant that submits filings."
+					},
+					{
+						"name": "name",
+						"titles": [
+							"Registrant Name"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "Name of registrant. This corresponds to the name of the legal entity as recorded in EDGAR as of the filing date."
+					},
+					{
+						"name": "ddate",
+						"titles": [
+							"Data Date"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "The end date for the data value, rounded to the nearest month end."
+					},
+					{
+						"name": "form",
+						"titles": [
+							"Submission Type"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "The submission type of the registrant's filing."
+					},
+					{
+						"name": "filed",
+						"titles": [
+							"Date Filed"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "The date of the registrant's filing with the Commission."
+					},
+					{
+						"name": "period",
+						"titles": [
+							"Report Period"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 8
+						},
+						"dc:description": "Balance Sheet Date, rounded to nearest month-end."
+					},
+					{
+						"name": "inlineurl",
+						"titles": [
+							"URL to inline XBRL filing"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "string",
+							"maxLength": 150
+						},
+						"dc:description": "URL to inline XBRL filing."
+					},
+					{
+						"name": "cstm",
+						"titles": [
+							"SOI Custom Tags/Axis"
+						],
+						"required": "true",
+						"datatype": {
+							"base": "decimal",
+							"minInclusive": 0,
+							"maxInclusive": 1
+						},
+						"dc:description": "Indicates a custom tag or axis was used in the SOI (1=TRUE; the SOI contained a custom tag or axis; 2=FALSE; the SOI did not contain a custom tag or axis)."
+					},
+					{
+						"name": "Industry Sector Axis",
+						"titles": [
+							"Industry Sector Axis"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "Information by industry sector, examples include but are not limited to, commercial, industrial, agricultural, financial services, technology, healthcare and real estate."
+					},
+					{
+						"name": "Investment, Identifier Axis",
+						"titles": [
+							"Investment, Identifier Axis"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "Identification of investment in security, including, but not limited to, name, title, and other identifying information."
+					},
+					{
+						"name": "Investment, Issuer Affiliation Axis",
+						"titles": [
+							"Investment, Issuer Affiliation Axis"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "Information by affiliation of issuer of investment."
+					},
+					{
+						"name": "Investment Type Axis",
+						"titles": [
+							"Investment Type Axis"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 512
+						},
+						"dc:description": "Information by type of investments."
+					},
+					{
+						"name": "Investment Interest Rate",
+						"titles": [
+							"Investment Interest Rate"
+						],
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Rate of interest on investment."
+					},
+					{
+						"name": "Investment, Basis Spread, Variable Rate",
+						"titles": [
+							"Investment, Basis Spread, Variable Rate"
+						],
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Percentage added to reference rate used to compute variable rate on investment."
+					},
+					{
+						"name": "Investment Maturity Date",
+						"titles": [
+							"Investment Maturity Date"
+						],
+						"datatype": {
+							"base": "string",
+							"maxLength": 10
+						},
+						"dc:description": "Maturity date of investment, in YYYY-MM-DD format."
+					},
+					{
+						"name": "Investment Owned, Balance, Principal Amount",
+						"titles": [
+							"Investment Owned, Balance, Principal Amount"
+						],
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Amount of principal of investment owned."
+					},
+					{
+						"name": "Investment Owned, Cost",
+						"titles": [
+							"Investment Owned, Cost"
+						],
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Cost of the investment."
+					},
+					{
+						"name": "Investment Owned, Fair Value",
+						"titles": [
+							"Investment Owned, Fair Value"
+						],
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Fair value of investment in security owned."
+					},
+					{
+						"name": "Investment Owned, Net Assets, Percentage",
+						"titles": [
+							"Investment Owned, Net Assets, Percentage"
+						],
+						"datatype": {
+							"base": "decimal"
+						},
+						"dc:description": "Percentage of investment owned to net assets."
+					}
+				]
+			}
+		}
+	]
+}

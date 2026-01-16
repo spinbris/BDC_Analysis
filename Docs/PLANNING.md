@@ -407,9 +407,26 @@ TOP_10_CIKS = list(TOP_10_BDCS.keys())
 
 ## SEC Download Details
 
-**URL:**
+**Base URL:**
 ```
-https://www.sec.gov/files/dera/data/bdc-data-sets/bdc-data-sets.zip
+https://www.sec.gov/files/structureddata/data/business-development-company-bdc-data-sets/
+```
+
+**File Pattern:**
+- Latest (monthly): `2025_11_bdc.zip` (November 2025, ~26MB, includes annual 10-K data)
+- Historical quarterly: `2024q4_bdc.zip`, `2024q3_bdc.zip` (~17MB, 10-Q updates)
+- Historical monthly: `2025_10_bdc.zip`, `2024_12_bdc.zip`
+
+**Download Examples:**
+```python
+# Latest data (November 2025)
+download_bdc_dataset(Path("data/raw"))
+
+# Specific quarter
+download_bdc_dataset(Path("data/raw"), period="2024q4")
+
+# Specific month
+download_bdc_dataset(Path("data/raw"), period="2025_11")
 ```
 
 **Required Headers:**
@@ -433,6 +450,17 @@ bdc-data-sets/
 ├── non.tsv      # Non-financial filings
 └── soi.tsv      # Schedule of Investments <-- PRIMARY
 ```
+
+**Available Data Files:**
+| Period | File | Size | Notes |
+|--------|------|------|-------|
+| Nov 2025 | 2025_11_bdc.zip | 26.33 MB | Most recent, annual filings |
+| Oct 2025 | 2025_10_bdc.zip | 1.00 MB | Monthly update |
+| Q1 2025 | 2025q1_bdc.zip | 26.87 MB | Quarterly |
+| Q4 2024 | 2024q4_bdc.zip | 18.97 MB | Quarterly |
+| Q3 2024 | 2024q3_bdc.zip | 17.13 MB | Quarterly |
+
+*Data available back to Q4 2022. Large files (~26MB) contain full annual 10-K data; smaller files are quarterly 10-Q updates.*
 
 ---
 

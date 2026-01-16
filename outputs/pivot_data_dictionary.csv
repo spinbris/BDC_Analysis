@@ -1,0 +1,23 @@
+File,Field,Description
+pivot_investment_positions.csv,bdc_name,Name of the BDC holding the investment
+pivot_investment_positions.csv,company_name,Name of the portfolio company
+pivot_investment_positions.csv,holder_count,Number of BDCs holding this company (1-6)
+pivot_investment_positions.csv,is_shared,Boolean: True if held by multiple BDCs
+pivot_investment_positions.csv,other_holders,Comma-separated list of other BDCs holding this company
+pivot_investment_positions.csv,investment_type,"Type of investment (Senior Debt, Equity, etc.)"
+pivot_investment_positions.csv,industry_sector,Classified industry sector (16 categories)
+pivot_investment_positions.csv,fair_value_millions,Fair value in millions of dollars
+pivot_investment_positions.csv,fair_value,Fair value in raw dollars
+pivot_investment_positions.csv,has_business_desc,Boolean: True if business description exists
+,,
+pivot_company_level.csv,position_count,Number of investment positions in this company
+pivot_company_level.csv,total_exposure_across_bdcs,Total fair value of this company across all BDCs (millions)
+pivot_company_level.csv,industry_classified,Boolean: True if industry is not Unknown/Other
+,,
+pivot_unique_companies.csv,held_by_bdcs,Comma-separated list of BDCs holding this company
+pivot_unique_companies.csv,total_positions,Total number of positions across all BDCs
+,,
+pivot_bdc_company_matrix.csv,Holder_Count,Number of BDCs holding this company
+,,
+pivot_industry_bdc_detail.csv,pct_companies,Percentage of BDC's companies in this industry
+pivot_industry_bdc_detail.csv,pct_fair_value,Percentage of BDC's fair value in this industry

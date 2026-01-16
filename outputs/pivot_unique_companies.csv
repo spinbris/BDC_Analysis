@@ -1,0 +1,832 @@
+company_name,holder_count,is_shared,held_by_bdcs,industry_sector,business_description,total_positions,fair_value_millions,principal_millions,cost_millions,total_fair_value,total_principal,total_cost,has_business_desc,industry_classified
+Zendesk Inc,1,False,FS KKR Capital Corp,Unknown,,4,9416.2,80.1,9776.7,9416200000.0,80100000.0,9776700000.0,False,False
+Net Senior Secured Loans—First Lien,1,False,FS KKR Capital Corp,Unknown,,1,8529.1,0.0,8890.1,8529100000.0,0.0,8890100000.0,False,False
+National Property REIT Corp.,1,False,Prospect Capital Corporation,Unknown,,14,7011.04,1347.1,3672.06,7011043000.0,1347097000.0,3672063000.0,False,False
+"ZocDoc, Inc.",1,False,Ares Capital Corporation,Healthcare Services,Healthcare marketplace connecting patients and providers,2,6618.7,74.1,6633.7,6618700000.0,74100000.0,6633700000.0,True,True
+"Weber-Stephen Products LLC, Revolver",1,False,FS KKR Capital Corp,Unknown,,6,4771.2,0.0,5060.6,4771200000.0,0.0,5060600000.0,False,False
+Net Asset Based Finance,1,False,FS KKR Capital Corp,Unknown,,2,4179.0,0.0,4469.0,4179000000.0,0.0,4469000000.0,False,False
+"Credit Opportunities Partners JV, LLC",1,False,FS KKR Capital Corp,Unknown,,3,4123.5,0.0,3143.4,4123500000.0,0.0,3143400000.0,False,False
+First Tower Finance Company LLC,1,False,Prospect Capital Corporation,Unknown,,7,3331.27,877.16,1908.3,3331274000.0,877164000.0,1908297000.0,False,False
+Wellington-Altus Financial Inc. (15),1,False,Ares Capital Corporation,Financial Services,Wealth management and advisory firm,4,2649.6,0.8,2405.0,2649600000.0,800000.0,2405000000.0,True,True
+Software,1,False,New Mountain Finance Corporation,Unknown,,191,2107.89,6788.89,2098.47,2107892000.0,6788890000.0,2098466000.0,False,False
+"InterDent, Inc.",1,False,Prospect Capital Corporation,Unknown,,12,2063.3,665.34,1534.39,2063295000.0,665335000.0,1534391000.0,False,False
+"Ivy Hill Asset Management, L.P.",1,False,Ares Capital Corporation,Financial Services,Asset management services,1,1915.3,0.0,1700.5,1915300000.0,0.0,1700500000.0,True,True
+Wittur Holding GmbH,1,False,FS KKR Capital Corp,Unknown,,5,1201.0,134.1,1364.4,1201000000.0,134100000.0,1364400000.0,False,False
+Production Resource Group LLC,1,False,FS KKR Capital Corp,Unknown,,15,1194.7,659.2,655.3,1194700000.0,659200000.0,655300000.0,False,False
+Business Services,1,False,New Mountain Finance Corporation,Unknown,,123,1112.56,101540.79,1241.55,1112562000.0,101540789000.0,1241548000.0,False,False
+Net Senior Secured Loans—Second Lien,1,False,FS KKR Capital Corp,Unknown,,1,1089.8,0.0,1158.1,1089800000.0,0.0,1158100000.0,False,False
+Healthcare,1,False,New Mountain Finance Corporation,Unknown,,87,1043.13,9956.02,984.38,1043132000.0,9956015000.0,984375000.0,False,False
+"Town & Country Holdings, Inc.",1,False,Prospect Capital Corporation,Unknown,,10,910.52,460.55,984.87,910524000.0,460554000.0,984872000.0,False,False
+Neptune Bidco US Inc. and Elliott Metron Co-Investor Aggregator L.P.,1,False,Ares Capital Corporation,Business Services,"Provider of audience insights, data and analytics to entertainment industry",6,862.0,458.8,902.6,862000000.0,458800000.0,902600000.0,True,True
+"Valley Electric Company, Inc.",1,False,Prospect Capital Corporation,Unknown,,7,798.62,83.86,196.58,798622000.0,83858000.0,196585000.0,False,False
+DRI Holding Inc.,1,False,Prospect Capital Corporation,Unknown,,5,680.31,323.56,677.8,680314000.0,323561000.0,677799000.0,False,False
+"Symplr Software Inc. and Symplr Software Intermediate Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,SaaS based healthcare compliance platform provider,9,678.0,178.9,757.4,678000000.0,178900000.0,757400000.0,True,True
+"Gamber-Johnson Holdings, LLC",1,False,Main Street Capital Corporation,Other,Manufacturer of Ruggedized Computer Mounting Systems,6,677.33,127.2,324.37,677328000.0,127204000.0,324366000.0,True,False
+Kellermeyer Bergensons Services LLC,1,False,FS KKR Capital Corp,Unknown,,5,595.8,663.0,649.4,595800000.0,663000000.0,649400000.0,False,False
+"GHX Ultimate Parent Corporation, Commerce Parent, Inc. and Commerce Topco, LLC",1,False,Ares Capital Corporation,Healthcare Services,On-demand supply chain automation solutions provider to the healthcare industry,3,568.8,243.5,512.8,568800000.0,243500000.0,512800000.0,True,True
+"AthenaHealth Group Inc., Minerva Holdco, Inc. and BCPE Co-Invest (A), LP (15)",1,False,Ares Capital Corporation,Healthcare Services,Revenue cycle management provider to the physician practices and acute care hospitals,4,566.8,0.1,562.2,566800000.0,100000.0,562200000.0,True,True
+"Cornerstone OnDemand, Inc. and Sunshine Software Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,"Provider of a cloud-based, SaaS platform for talent management",6,559.0,148.6,647.8,559000000.0,148600000.0,647800000.0,True,True
+NMN Holdings III Corp. and NMN Holdings LP,1,False,Ares Capital Corporation,Software/Technology,Provider of complex rehabilitation technology solutions for patients with mobility loss,4,513.8,250.6,507.2,513800000.0,250600000.0,507200000.0,True,True
+"Imperative Worldwide, LLC (f/k/a MAGNATE WORLDWIDE, LLC)",1,False,Prospect Capital Corporation,Unknown,,6,507.0,258.74,517.22,507002000.0,258743000.0,517220000.0,False,False
+"R-V Industries, Inc.",1,False,Prospect Capital Corporation,Unknown,,8,497.47,84.64,200.45,497466000.0,84644000.0,200452000.0,False,False
+"Cloud Software Group, Inc., Picard Parent, Inc., Cloud Software Group Holdings, Inc., Picard HoldCo, LLC and Elliott Alto Co-Investor Aggregator L.P.",1,False,Ares Capital Corporation,Software/Technology,"Provider of server, application and desktop virtualization, networking, software as a service, and cloud computing technologies",5,493.0,211.0,428.2,493000000.0,211000000.0,428200000.0,True,True
+Pacific World Corporation,1,False,Prospect Capital Corporation,Unknown,,8,491.01,212.92,1354.54,491012000.0,212919000.0,1354539000.0,False,False
+"athenahealth Inc, Preferred Stock",1,False,FS KKR Capital Corp,Unknown,,2,483.8,0.0,0.0,483800000.0,0.0,0.0,False,False
+"Roemanu LLC (FKA Toorak Capital Partners LLC), ABF Equity",1,False,FS KKR Capital Corp,Unknown,,2,479.9,220778388.0,236.5,479900000.0,220778388000000.0,236500000.0,False,False
+"Centralsquare Technologies, LLC and Supermoose Newco, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of mission-critical software solutions for the public sector,3,469.0,141.9,469.0,469000000.0,141900000.0,469000000.0,True,True
+Kaseya Inc. and Knockout Intermediate Holdings I Inc.,1,False,Ares Capital Corporation,Software/Technology,Provider of cloud-based software and technology solutions for small and medium sized businesses,4,463.2,177.7,462.8,463200000.0,177700000.0,462800000.0,True,True
+Clarience Technologies LLC,1,False,FS KKR Capital Corp,Unknown,,5,455.0,68.8,447.4,455000000.0,68800000.0,447400000.0,False,False
+Medallia Inc,1,False,FS KKR Capital Corp,Unknown,,2,437.0,443.0,439.7,437000000.0,443000000.0,439700000.0,False,False
+"Global Jet Capital LLC, Preferred Stock",1,False,FS KKR Capital Corp,Unknown,,3,431.6,575051908.0,621.7,431600000.0,575051908000000.0,621700000.0,False,False
+"MITY, Inc.",1,False,Prospect Capital Corporation,Unknown,,11,428.18,126.06,373.87,428180000.0,126058000.0,373868000.0,False,False
+"NMMB, Inc.",1,False,Prospect Capital Corporation,Unknown,,7,427.12,59.45,118.89,427124000.0,59446000.0,118892000.0,False,False
+"MSC Adviser I, LLC",1,False,Main Street Capital Corporation,Financial Services,Third Party Investment Advisory Services,2,420.06,0.0,59.0,420063000.0,0.0,59000000.0,True,True
+CP Energy Services Inc.,1,False,Prospect Capital Corporation,Unknown,,18,413.65,212.55,1187.03,413651000.0,212549000.0,1187033000.0,False,False
+MB2 Dental Solutions LLC,1,False,FS KKR Capital Corp,Unknown,,4,410.6,409.0,402.6,410600000.0,409000000.0,402600000.0,False,False
+RSC Insurance Brokerage Inc,1,False,FS KKR Capital Corp,Unknown,,5,408.4,407.4,399.6,408400000.0,407400000.0,399600000.0,False,False
+"Eclipse Topco, Inc., Eclipse Investor Parent, L.P. and Eclipse Buyer, Inc.",1,False,Ares Capital Corporation,Financial Services,Payment processing solution provider,4,402.8,196.1,407.0,402800000.0,196100000.0,407000000.0,True,True
+"GraphPAD Software, LLC, Insightful Science Intermediate I, LLC and Insightful Science Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,"Provider of data analysis, statistics, and visualization software solutions for scientific research applications",4,397.6,125.1,399.8,397600000.0,125100000.0,399800000.0,True,True
+"Mimecast Borrowerco, Inc. and Magnesium Co- Invest SCSp",1,False,Ares Capital Corporation,Software/Technology,Cybersecurity solutions provider,8,395.0,148.0,394.0,395000000.0,148000000.0,394000000.0,True,True
+"PeopleConnect Holdings, Inc",1,False,Prospect Capital Corporation,Unknown,,4,391.34,195.67,391.34,391340000.0,195670000.0,391340000.0,False,False
+"BCPE North Star US Holdco 2, Inc.",1,False,Prospect Capital Corporation,Unknown,,5,389.88,200.0,398.06,389884000.0,200000000.0,398060000.0,False,False
+"Credit Central Loan Company, LLC",1,False,Prospect Capital Corporation,Unknown,,9,389.57,173.21,475.8,389574000.0,173207000.0,475805000.0,False,False
+"Universal Turbine Parts, LLC",1,False,Prospect Capital Corporation,Unknown,,11,386.66,90.16,312.83,386655000.0,90163000.0,312826000.0,False,False
+CSafe Global,1,False,FS KKR Capital Corp,Unknown,,9,384.3,322.7,381.6,384300000.0,322700000.0,381600000.0,False,False
+"Enverus Holdings, Inc. and Titan DI Preferred Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,SaaS based business analytics company focused on oil and gas industry,5,381.4,134.2,379.6,381400000.0,134200000.0,379600000.0,True,True
+Consumer Services,1,False,New Mountain Finance Corporation,Unknown,,34,381.25,266.28,380.85,381249000.0,266282000.0,380853000.0,False,False
+"Global Medical Response, Inc. and GMR Buyer Corp.",1,False,Ares Capital Corporation,Healthcare Services,Emergency air medical services provider,6,381.0,41.3,357.8,381000000.0,41300000.0,357800000.0,True,True
+"CoreLogic, Inc. and T-VIII Celestial Co-Invest LP",1,False,Ares Capital Corporation,Software/Technology,"Provider of information, insight, analytics, software and other outsourced services primarily to the mortgage, real estate and insurance sectors",3,381.0,155.7,430.8,381000000.0,155700000.0,430800000.0,True,True
+"CVP Holdco, Inc. and OMERS Wildcats Investment Holdings LLC",1,False,Ares Capital Corporation,Healthcare Services,Veterinary hospital operator,4,365.8,159.2,352.8,365800000.0,159200000.0,352800000.0,True,True
+"Huskies Parent, Inc., GI Insurity Parent LLC and GI Insurity TopCo LP",1,False,Ares Capital Corporation,Software/Technology,Insurance software provider,5,362.8,189.0,395.6,362800000.0,189000000.0,395600000.0,True,True
+"Bolder Panther Group, LLC",1,False,Main Street Capital Corporation,Consumer Products,Consumer Goods and Fuel Retailer,4,356.8,198.2,321.42,356795000.0,198199000.0,321419000.0,True,True
+Financial Services,1,False,New Mountain Finance Corporation,Unknown,,25,353.34,199.49,347.16,353336000.0,199487000.0,347164000.0,False,False
+"Dcert Buyer, Inc., DCert Preferred Holdings, Inc. and Destiny Digital Holdings, L.P.",1,False,Ares Capital Corporation,Software/Technology,Provider of internet security tools and solutions,4,348.4,11.0,423.0,348400000.0,11000000.0,423000000.0,True,True
+PSKW LLC (dba ConnectiveRx),1,False,FS KKR Capital Corp,Unknown,,2,345.1,345.1,340.2,345100000.0,345100000.0,340200000.0,False,False
+Solera LLC,1,False,FS KKR Capital Corp,Unknown,,1,335.9,335.9,322.1,335900000.0,335900000.0,322100000.0,False,False
+ATX Networks Corp,1,False,FS KKR Capital Corp,Unknown,,9,331.8,254.0,255.3,331800000.0,254000000.0,255300000.0,False,False
+"Microstar Logistics LLC, Microstar Global Asset Management LLC, MStar Holding Corporation and Kegstar USA Inc.",1,False,Ares Capital Corporation,Other,Keg management solutions provider,6,330.8,136.2,316.8,330800000.0,136200000.0,316800000.0,True,False
+Insight Global LLC,1,False,FS KKR Capital Corp,Unknown,,6,323.4,84.0,321.7,323400000.0,84000000.0,321700000.0,False,False
+"Datix Bidco Limited and RL Datix Holdings (USA), Inc.",1,False,Ares Capital Corporation,Software/Technology,Global healthcare software company that provides software solutions for patient safety and risk management,5,320.0,160.1,320.2,320000000.0,160100000.0,320200000.0,True,True
+"USG Intermediate, LLC",1,False,Prospect Capital Corporation,Unknown,,8,317.91,158.95,317.91,317906000.0,158953000.0,317910000.0,False,False
+"SI East, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Rigid Industrial Packaging Manufacturing,8,316.8,125.57,256.6,316804000.0,125572000.0,256600000.0,True,True
+"U.S. Anesthesia Partners, Inc. & U.S. Anesthesia Partners Holdings, Inc.",1,False,Ares Capital Corporation,Other,Anesthesiology service provider,3,313.4,147.8,321.4,313400000.0,147800000.0,321400000.0,True,False
+Tangoe LLC,1,False,FS KKR Capital Corp,Unknown,,4,311.0,374.8,349.8,311000000.0,374800000.0,349800000.0,False,False
+Precisely Software Incorporated,1,False,Prospect Capital Corporation,Unknown,,4,310.4,160.0,318.02,310398000.0,160000000.0,318018000.0,False,False
+"IRI Group Holdings, Inc., Circana, LLC and IRI-NPD Co-Invest Aggregator, L.P.",1,False,Ares Capital Corporation,Business Services,Market research company focused on the consumer packaged goods industry,3,307.2,153.6,307.2,307200000.0,153600000.0,307200000.0,True,True
+"Broder Bros., Co.",1,False,Prospect Capital Corporation,Unknown,,2,307.03,153.51,307.03,307028000.0,153514000.0,307028000.0,False,False
+Peraton Corp,1,False,FS KKR Capital Corp,Unknown,,2,304.5,304.8,291.9,304500000.0,304800000.0,291900000.0,False,False
+"Nebraska Vet AcquireCo, LLC",1,False,Main Street Capital Corporation,Healthcare Services,Mixed-Animal Veterinary and Animal Health Product Provider,9,300.41,103.14,233.32,300408000.0,103144000.0,233320000.0,True,True
+"Aventiv Technologies, LLC",1,False,Prospect Capital Corporation,Unknown,,10,285.77,335.07,424.02,285772000.0,335069000.0,424016000.0,False,False
+Woolpert Inc,1,False,FS KKR Capital Corp,Unknown,,6,285.2,125.4,278.8,285200000.0,125400000.0,278800000.0,False,False
+Lexitas Inc,1,False,FS KKR Capital Corp,Unknown,,7,282.6,279.4,274.6,282600000.0,279400000.0,274600000.0,False,False
+"BCPE Osprey Buyer, Inc.",1,False,Prospect Capital Corporation,Unknown,,8,279.54,139.77,279.38,279540000.0,139770000.0,279382000.0,False,False
+"Senior Loan Fund JV I, LLC",1,False,Oaktree Specialty Lending Corporation,Unknown,,4,276.73,225.31,0.0,276731000.0,225312000.0,0.0,False,False
+J S Held LLC,1,False,FS KKR Capital Corp,Unknown,,8,275.6,276.3,275.0,275600000.0,276300000.0,275000000.0,False,False
+"Interventional Management Services, LLC",1,False,Prospect Capital Corporation,Unknown,,6,275.06,139.72,279.44,275062000.0,139720000.0,279440000.0,False,False
+"Consilio Midco Limited, Compusoft US LLC, and Consilio Investment Holdings, L.P.",1,False,Ares Capital Corporation,Software/Technology,Provider of sales software for the interior design industry,11,272.4,126.5,267.2,272400000.0,126500000.0,267200000.0,True,True
+"Cardinal Parent, Inc. and Packers Software Intermediate Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of software and technology-enabled content and analytical solutions to insurance brokers,6,267.6,75.3,290.0,267600000.0,75300000.0,290000000.0,True,True
+"Echelon Transportation, LLC",1,False,Prospect Capital Corporation,Unknown,,8,265.15,109.48,441.28,265152000.0,109478000.0,441280000.0,False,False
+Global Tel*Link Corporation (d/b/a ViaPath Technologies.),1,False,Prospect Capital Corporation,Unknown,,3,264.25,132.17,263.14,264252000.0,132167000.0,263140000.0,False,False
+"OMi Topco, LLC",1,False,Main Street Capital Corporation,Other,Manufacturer of Overhead Cranes,6,261.7,21.75,47.62,261700000.0,21750000.0,47624000.0,True,False
+General Datatech LP,1,False,FS KKR Capital Corp,Unknown,,2,252.5,256.1,254.6,252500000.0,256100000.0,254600000.0,False,False
+Global Tel*Link Corporation (d./b/a ViaPath Technologies),1,False,Prospect Capital Corporation,Unknown,,2,248.35,126.05,243.8,248348000.0,126048000.0,243796000.0,False,False
+Education,1,False,New Mountain Finance Corporation,Unknown,,23,248.19,304.42,290.59,248193000.0,304419000.0,290593000.0,False,False
+Summit Interconnect Inc,1,False,FS KKR Capital Corp,Unknown,,2,247.7,269.7,268.1,247700000.0,269700000.0,268100000.0,False,False
+"Faraday Buyer, LLC",1,False,Prospect Capital Corporation,Unknown,,4,246.72,123.36,246.72,246716000.0,123358000.0,246716000.0,False,False
+"ShiftKey, LLC",1,False,Prospect Capital Corporation,Unknown,,4,246.01,126.64,252.16,246014000.0,126644000.0,252164000.0,False,False
+"PracticeTek Purchaser, LLC, PracticeTek MidCo, LLC and GSV PracticeTek Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,Software provider for medical practitioners,5,244.0,83.8,218.4,244000000.0,83800000.0,218400000.0,True,True
+"iQor Holdings, Inc.",1,False,Prospect Capital Corporation,Unknown,,6,243.28,95.7,233.21,243284000.0,95704000.0,233208000.0,False,False
+BGB Group LLC,1,False,FS KKR Capital Corp,Unknown,,4,242.0,246.2,244.8,242000000.0,246200000.0,244800000.0,False,False
+Apex Service Partners LLC,1,False,FS KKR Capital Corp,Unknown,,10,241.3,242.4,240.7,241300000.0,242400000.0,240700000.0,False,False
+"Roemanu LLC (FKA Toorak Capital Partners LLC), Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,241.0,220778388.0,236.5,241000000.0,220778388000000.0,236500000.0,False,False
+Hibu Inc,1,False,FS KKR Capital Corp,Unknown,,4,229.8,228.3,222.2,229800000.0,228300000.0,222200000.0,False,False
+"Atlantis Health Care Group (Puerto Rico), Inc.",1,False,Prospect Capital Corporation,Unknown,,4,229.52,114.76,229.52,229516000.0,114758000.0,229516000.0,False,False
+Vytalogy Wellness LLC (fka Jarrow Formulas Inc),1,False,FS KKR Capital Corp,Unknown,,3,228.4,234.1,227.7,228400000.0,234100000.0,227700000.0,False,False
+"Japs-Olson Company, LLC",1,False,Prospect Capital Corporation,Unknown,,4,228.14,114.07,228.14,228138000.0,114069000.0,228138000.0,False,False
+First Brands Group,1,False,Prospect Capital Corporation,Unknown,,6,227.9,117.97,235.81,227904000.0,117967000.0,235806000.0,False,False
+"Wash Encore Holdings, LLC",1,False,Ares Capital Corporation,Healthcare Services,Provider of outsourced healthcare linen management solutions,3,226.2,113.1,225.8,226200000.0,113100000.0,225800000.0,True,True
+Gigamon Inc,1,False,FS KKR Capital Corp,Unknown,,4,226.1,229.7,228.4,226100000.0,229700000.0,228400000.0,False,False
+"Credit.com Holdings, LLC",1,False,Prospect Capital Corporation,Unknown,,7,225.45,196.53,382.49,225448000.0,196530000.0,382492000.0,False,False
+Heniff Transportation Systems LLC,1,False,FS KKR Capital Corp,Unknown,,6,223.2,223.2,214.5,223200000.0,223200000.0,214500000.0,False,False
+California Splendor Holdings LLC,1,False,Main Street Capital Corporation,Other,Processor of Frozen Fruits,9,222.09,58.44,202.02,222092000.0,58436000.0,202022000.0,True,False
+"Belnick, LLC (d/b/a The Ubique Group)",1,False,Prospect Capital Corporation,Unknown,,4,219.67,84.55,260.76,219666000.0,84552000.0,260756000.0,False,False
+"Emerge Intermediate, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,219.2,113.38,226.76,219204000.0,113382000.0,226764000.0,False,False
+"Severin Acquisition, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of student information system software solutions to the K-12 education market in North America,1,218.9,221.2,221.1,218900000.0,221200000.0,221100000.0,True,True
+Dental Care Alliance Inc,1,False,FS KKR Capital Corp,Unknown,,3,217.0,110.8,215.9,217000000.0,110800000.0,215900000.0,False,False
+Med-Metrix,1,False,FS KKR Capital Corp,Unknown,,5,216.4,214.8,214.2,216400000.0,214800000.0,214200000.0,False,False
+"Cody Pools, Inc.",1,False,Main Street Capital Corporation,Real Estate,Designer of Residential and Commercial Pools,4,214.07,39.23,95.02,214074000.0,39227000.0,95024000.0,True,True
+Oxford Global Resources LLC,1,False,FS KKR Capital Corp,Unknown,,5,211.5,210.4,209.3,211500000.0,210400000.0,209300000.0,False,False
+"SOC Telemed, Inc. and PSC Spark Holdings, LP",1,False,Ares Capital Corporation,Other,Provider of acute care telemedicine,4,210.2,107.3,228.8,210200000.0,107300000.0,228800000.0,True,False
+Creative Foam Corporation,1,False,Main Street Capital Corporation,Healthcare Services,"Manufacturer of Custom Engineered Die Cut, Formed Foam, Nonwoven, and Multi-material Component Solutions for the Automotive and Healthcare Markets",3,209.91,106.28,208.15,209914000.0,106280000.0,208152000.0,True,True
+"The RK Logistics Group, Inc.",1,False,Prospect Capital Corporation,Unknown,,12,209.06,78.16,176.33,209056000.0,78164000.0,176328000.0,False,False
+Nationwide Loan Company LLC,1,False,Prospect Capital Corporation,Unknown,,9,207.46,42.53,236.6,207456000.0,42533000.0,236600000.0,False,False
+Lionbridge Technologies Inc,1,False,FS KKR Capital Corp,Unknown,,2,205.8,205.8,202.3,205800000.0,205800000.0,202300000.0,False,False
+"Enseo Acquisition, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,205.52,102.76,205.52,205516000.0,102758000.0,205516000.0,False,False
+Integrity Marketing Group LLC,1,False,FS KKR Capital Corp,Unknown,,7,201.0,201.2,201.2,201000000.0,201200000.0,201200000.0,False,False
+VetCor Professional Practices LLC,1,False,FS KKR Capital Corp,Unknown,,7,200.5,64.5,199.3,200500000.0,64500000.0,199300000.0,False,False
+Chamberlin Holding LLC,1,False,Main Street Capital Corporation,Software/Technology,Roofing and Waterproofing Specialty Contractor,10,200.16,31.24,114.72,200160000.0,31240000.0,114724000.0,True,True
+WSHP FC Acquisition LLC and WSHP FC Holdings LLC,1,False,Ares Capital Corporation,Business Services,Provider of biospecimen products for pharma research,11,199.6,104.0,218.4,199600000.0,104000000.0,218400000.0,True,True
+"Event Holdco, LLC",1,False,Main Street Capital Corporation,Software/Technology,Event and Learning Management Software for Healthcare Organizations and Systems,6,196.65,99.19,197.42,196648000.0,99186000.0,197420000.0,True,True
+Galway Partners Holdings LLC,1,False,FS KKR Capital Corp,Unknown,,7,195.9,196.9,194.5,195900000.0,196900000.0,194500000.0,False,False
+eCapital Finance Corp.,1,False,Ares Capital Corporation,Other,Consolidator of commercial finance businesses,6,195.9,195.9,192.2,195900000.0,195900000.0,192200000.0,True,False
+Greystone Equity Member Corp,1,False,FS KKR Capital Corp,Unknown,,1,194.8,194.8,187.5,194800000.0,194800000.0,187500000.0,False,False
+"ATI Restoration, LLC",1,False,Ares Capital Corporation,Other,Provider of disaster recovery services,5,194.6,99.3,198.6,194600000.0,99300000.0,198600000.0,True,False
+"Eze Castle Integration, Inc.",1,False,Prospect Capital Corporation,Unknown,,6,193.6,96.8,193.58,193600000.0,96800000.0,193576000.0,False,False
+"Help/Systems Holdings, Inc. (d/b/a Forta, LLC)",1,False,Prospect Capital Corporation,Unknown,,4,193.49,105.0,209.73,193488000.0,105000000.0,209730000.0,False,False
+"Hyland Software, Inc.",1,False,Ares Capital Corporation,Software/Technology,Enterprise content management software provider,2,193.2,96.6,190.8,193200000.0,96600000.0,190800000.0,True,True
+American Vision Partners,1,False,FS KKR Capital Corp,Unknown,,6,193.2,192.5,196.8,193200000.0,192500000.0,196800000.0,False,False
+Karman Space Inc,1,False,FS KKR Capital Corp,Unknown,,5,192.9,192.9,189.6,192900000.0,192900000.0,189600000.0,False,False
+Pearl Meyer Topco LLC,1,False,Main Street Capital Corporation,Business Services,Provider of Executive Compensation Consulting Services,5,190.54,51.18,128.11,190542000.0,51181000.0,128108000.0,True,True
+"Finastra USA, Inc., DH Corporation/Societe DH, and Finastra Europe S.A R.L.",1,False,Ares Capital Corporation,Software/Technology,Provider of back-office software services for the banking sector,1,189.0,189.0,186.1,189000000.0,189000000.0,186100000.0,True,True
+"DTI Holdco, Inc.",1,False,Prospect Capital Corporation,Unknown,,3,186.35,93.18,185.84,186352000.0,93176000.0,185842000.0,False,False
+Performance Health Holdings Inc,1,False,FS KKR Capital Corp,Unknown,,2,186.1,186.4,185.1,186100000.0,186400000.0,185100000.0,False,False
+"Kilter Finance, Preferred Stock",1,False,FS KKR Capital Corp,Unknown,,2,185.1,99700000.0,184.3,185100000.0,99700000000000.0,184300000.0,False,False
+48Forty Solutions LLC,1,False,FS KKR Capital Corp,Unknown,,3,181.6,191.5,190.3,181600000.0,191500000.0,190300000.0,False,False
+Ellucian Inc,1,False,FS KKR Capital Corp,Unknown,,1,181.0,179.2,171.9,181000000.0,179200000.0,171900000.0,False,False
+Industria Chimica Emiliana Srl,1,False,FS KKR Capital Corp,Unknown,,3,180.7,17.6,206.9,180700000.0,17600000.0,206900000.0,False,False
+"Pinnacle TopCo, LLC",1,False,Main Street Capital Corporation,Other,"Manufacturer and Distributor of Garbage Can Liners, Poly Bags, Produce Bags, and Other Similar Products",8,180.65,59.74,168.53,180646000.0,59740000.0,168530000.0,True,False
+"Collections Acquisition Company, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,179.15,89.58,179.15,179152000.0,89576000.0,179152000.0,False,False
+"Direct Marketing Solutions, Inc.",1,False,Main Street Capital Corporation,Business Services,Provider of Omni-Channel Direct Marketing Services,8,178.7,50.68,134.52,178696000.0,50678000.0,134518000.0,True,True
+ThreeSixty Group,1,False,FS KKR Capital Corp,Unknown,,3,178.6,45.8,184.3,178600000.0,45800000.0,184300000.0,False,False
+Foundation Risk Partners Corp,1,False,FS KKR Capital Corp,Unknown,,6,176.6,176.5,175.1,176600000.0,176500000.0,175100000.0,False,False
+GRT Rubber Technologies LLC,1,False,Main Street Capital Corporation,Other,Manufacturer of Engineered Rubber Products,4,174.67,42.89,111.64,174666000.0,42893000.0,111638000.0,True,False
+"Pritchard Industries, LLC and LJ Pritchard TopCo Holdings, LLC",1,False,Ares Capital Corporation,Real Estate,Provider of janitorial and facilities management services,4,171.6,79.2,176.4,171600000.0,79200000.0,176400000.0,True,True
+PartsSource Inc,1,False,FS KKR Capital Corp,Unknown,,7,169.5,170.3,168.9,169500000.0,170300000.0,168900000.0,False,False
+"NH Kronos Buyer, Inc.",1,False,Prospect Capital Corporation,Unknown,,2,167.12,83.56,166.93,167124000.0,83562000.0,166934000.0,False,False
+Follett Software Co,1,False,FS KKR Capital Corp,Unknown,,4,165.4,164.9,163.9,165400000.0,164900000.0,163900000.0,False,False
+"Elemica Parent, Inc. & EZ Elemica Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,SaaS based supply chain management software provider focused on chemical markets,6,165.4,77.7,164.6,165400000.0,77700000.0,164600000.0,True,True
+Spins LLC,1,False,FS KKR Capital Corp,Unknown,,6,163.0,163.0,159.9,163000000.0,163000000.0,159900000.0,False,False
+"ZenDesk, Inc., Zoro TopCo, Inc. and Zoro TopCo, LP",1,False,Ares Capital Corporation,Software/Technology,Provider of cloud-based customer support solutions,4,162.6,43.4,162.8,162600000.0,43400000.0,162800000.0,True,True
+Dukes Root Control Inc.,1,False,Prospect Capital Corporation,Unknown,,7,161.55,79.59,162.41,161549000.0,79587000.0,162412000.0,False,False
+"Shoes West, LLC (d/b/a Taos Footwear)",1,False,Prospect Capital Corporation,Unknown,,4,161.01,47.81,129.9,161010000.0,47811000.0,129900000.0,False,False
+"Druid City Infusion, LLC",1,False,Prospect Capital Corporation,Unknown,,3,160.61,68.86,137.73,160606000.0,68865000.0,137730000.0,False,False
+"WorkWave Intermediate II, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of cloud-based field services and fleet management solutions,5,159.6,79.8,159.6,159600000.0,79800000.0,159600000.0,True,True
+Transaction Services Group Ltd,1,False,FS KKR Capital Corp,Unknown,,2,159.2,0.0,158.4,159200000.0,0.0,158400000.0,False,False
+Individual FoodService,1,False,FS KKR Capital Corp,Unknown,,5,157.9,159.3,156.7,157900000.0,159300000.0,156700000.0,False,False
+RME Group Holding Company,1,False,Prospect Capital Corporation,Unknown,,6,157.74,79.21,158.43,157740000.0,79214000.0,158428000.0,False,False
+"Visual Edge Technology, Inc. (5)",1,False,Ares Capital Corporation,Industrial/Manufacturing,Provider of outsourced office solutions with a focus on printer and copier equipment and other parts and supplies,4,157.4,33.6,168.8,157400000.0,33600000.0,168800000.0,True,True
+"EP Purchaser, LLC and TPG VIII EP Co-Invest II, L.P.",1,False,Ares Capital Corporation,Media & Entertainment,Provider of entertainment workforce and production management solutions,3,156.8,147.2,150.0,156800000.0,147200000.0,150000000.0,True,True
+JW Aluminum Co,1,False,FS KKR Capital Corp,Unknown,,2,155.2,76.5,75.9,155200000.0,76500000.0,75900000.0,False,False
+"QC Holdings TopCo, LLC",1,False,Prospect Capital Corporation,Unknown,,3,154.57,55.0,154.57,154572000.0,54997000.0,154572000.0,False,False
+Time Manufacturing Co,1,False,FS KKR Capital Corp,Unknown,,8,152.7,102.3,163.8,152700000.0,102300000.0,163800000.0,False,False
+Amerivet Partners Management Inc,1,False,FS KKR Capital Corp,Unknown,,4,152.1,152.7,152.2,152100000.0,152700000.0,152200000.0,False,False
+"Project Essential Bidco, Inc. and Project Essential Super Parent, Inc.",1,False,Ares Capital Corporation,Software/Technology,Saas provider of automated crew callout and scheduling software for the utility industry,3,151.6,37.8,161.2,151600000.0,37800000.0,161200000.0,True,True
+"Project Potter Buyer, LLC and Project Potter Parent, L.P.",1,False,Ares Capital Corporation,Software/Technology,Software solutions provider to the ready-mix concrete industry,6,151.6,72.5,145.0,151600000.0,72500000.0,145000000.0,True,True
+"JW Aluminum Co, Preferred Stock",1,False,FS KKR Capital Corp,Unknown,,1,148.7,0.0,0.0,148700000.0,0.0,0.0,False,False
+"Ansira Partners II, LLC",1,False,Main Street Capital Corporation,Business Services,Provider of Data-Driven Marketing Services,3,148.18,75.49,147.21,148184000.0,75490000.0,147206000.0,True,True
+"Medical Solutions Holdings, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,147.18,108.93,217.74,147180000.0,108926000.0,217744000.0,False,False
+HuFriedy Group Acquisition LLC,1,False,Ares Capital Corporation,Healthcare Services,Manufacturer of surgical dental equipment and sterile instruments,2,146.8,73.4,146.8,146800000.0,73400000.0,146800000.0,True,True
+"KKR Altitude II Offshore Aggregator LP, Partnership Interest",1,False,FS KKR Capital Corp,Unknown,,2,146.7,200719826.0,137.5,146700000.0,200719826000000.0,137500000.0,False,False
+"Victors Purchaser, LLC and WP Victors Co-Investment, L.P.",1,False,Ares Capital Corporation,Other,Third-party maintenance provider for hardware and data center infrastructure,4,146.2,71.2,147.4,146200000.0,71200000.0,147400000.0,True,False
+Redstone Holdco 2 LP,1,False,Prospect Capital Corporation,Unknown,,4,145.83,100.0,198.06,145834000.0,100000000.0,198058000.0,False,False
+"Garyline, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Manufacturer of Consumer Plastic Products,8,145.49,72.74,144.0,145486000.0,72735000.0,144002000.0,True,True
+Lakeview Farms Inc,1,False,FS KKR Capital Corp,Unknown,,5,144.3,77.4,142.1,144300000.0,77400000.0,142100000.0,False,False
+"PPL RVs, Inc.",1,False,Main Street Capital Corporation,Retail,Recreational Vehicle Dealer,10,142.61,36.33,81.61,142610000.0,36333000.0,81614000.0,True,True
+USIC Holdings Inc,1,False,FS KKR Capital Corp,Unknown,,4,142.1,141.5,140.9,142100000.0,141500000.0,140900000.0,False,False
+Foundation Consumer Brands LLC,1,False,FS KKR Capital Corp,Unknown,,3,141.5,141.5,137.3,141500000.0,141500000.0,137300000.0,False,False
+Galaxy Universal LLC,1,False,FS KKR Capital Corp,Unknown,,4,141.1,124.3,124.1,141100000.0,124300000.0,124100000.0,False,False
+"Victory Energy Operations, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Provider of Industrial and Commercial Combustion Systems,4,140.89,48.25,140.89,140890000.0,48251000.0,140890000.0,True,True
+"Recovery Solutions Parent, LLC",1,False,Prospect Capital Corporation,Unknown,,3,140.79,33.4,78.04,140792000.0,33399000.0,78042000.0,False,False
+NMFC Senior Loan Program III LLC,1,False,New Mountain Finance Corporation,Unknown,,1,140.0,0.0,0.0,140000000.0,0.0,0.0,False,False
+"Netsmart, Inc. and Netsmart Technologies, Inc.",1,False,Ares Capital Corporation,Software/Technology,Developer and operator of health care software and technology solutions,1,139.6,141.0,141.0,139600000.0,141000000.0,141000000.0,True,True
+Legends Hospitality LLC,1,False,FS KKR Capital Corp,Unknown,,4,138.4,138.7,137.6,138400000.0,138700000.0,137600000.0,False,False
+OneTouchPoint Corp,1,False,Prospect Capital Corporation,Unknown,,4,137.53,68.78,137.57,137534000.0,68784000.0,137568000.0,False,False
+"Auctane, Inc.",1,False,Ares Capital Corporation,Transportation & Logistics,Provider of mailing and shipping solutions,1,136.6,143.8,143.8,136600000.0,143800000.0,143800000.0,True,True
+"WatchGuard Technologies, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,136.41,68.43,136.85,136414000.0,68426000.0,136852000.0,False,False
+"New Benevis Topco, LLC / New Benevis Holdco, Inc.",1,False,New Mountain Finance Corporation,Unknown,,1,135.4,0.0,0.0,135401000.0,0.0,0.0,False,False
+"Banyan Software Holdings, LLC and Banyan Software, LP",1,False,Ares Capital Corporation,Software/Technology,Vertical software businesses holding company,7,135.4,55.6,119.4,135400000.0,55600000.0,119400000.0,True,True
+Radwell International LLC,1,False,FS KKR Capital Corp,Unknown,,4,135.2,135.2,135.2,135200000.0,135200000.0,135200000.0,False,False
+"MAC Discount, LLC",1,False,Prospect Capital Corporation,Unknown,,6,134.96,65.57,136.18,134964000.0,65574000.0,136178000.0,False,False
+"Altavair AirFinance, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,133.9,0.0,0.0,133900000.0,0.0,0.0,False,False
+"Centre Technologies Holdings, LLC",1,False,Main Street Capital Corporation,Software/Technology,Provider of IT Hardware Services and Software Solutions,6,133.12,43.11,111.02,133116000.0,43108000.0,111024000.0,True,True
+"WebPT, Inc. and WPT Intermediate Holdco, Inc.",1,False,Ares Capital Corporation,Software/Technology,Electronic medical record software provider,5,131.8,65.9,131.8,131800000.0,65900000.0,131800000.0,True,True
+"eResearch Technology, Inc. and Astorg VII Co-Invest ERT",1,False,Ares Capital Corporation,Software/Technology,"Provider of mission-critical, software-enabled clinical research solutions",5,131.4,58.8,124.4,131400000.0,58800000.0,124400000.0,True,True
+"Elgin AcquireCo, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Manufacturer and Distributor of Engine and Chassis Components,12,131.18,49.42,127.23,131176000.0,49420000.0,127232000.0,True,True
+"Storable, Inc. and EQT IX Co-Investment (E) SCSP",1,False,Ares Capital Corporation,Software/Technology,Payment management system solutions and web services for the self-storage industry,4,130.4,53.1,119.4,130400000.0,53100000.0,119400000.0,True,True
+3Pillar Global Inc,1,False,FS KKR Capital Corp,Unknown,,2,129.5,131.6,130.9,129500000.0,131600000.0,130900000.0,False,False
+"LeanTaaS Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of SaaS tools to optimize healthcare asset utilization,3,128.6,64.3,128.6,128600000.0,64300000.0,128600000.0,True,True
+"Channel Partners Intermediateco, LLC",1,False,Main Street Capital Corporation,Other,Outsourced Consumer Services Provider,8,128.55,88.77,132.34,128549000.0,88774000.0,132341000.0,True,False
+Nexus Buyer LLC,1,False,Prospect Capital Corporation,Unknown,,4,128.0,64.0,128.0,128000000.0,64000000.0,128000000.0,False,False
+"Amerivet Partners Management, Inc. and AVE Holdings LP",1,False,Ares Capital Corporation,Software/Technology,Veterinary practice management platform,4,127.8,66.2,138.6,127800000.0,66200000.0,138600000.0,True,True
+Wellington Bidco Inc. and Wellington TopCo LP,1,False,Ares Capital Corporation,Software/Technology,Provider of ERP and payments software for local governments,4,127.8,61.5,127.8,127800000.0,61500000.0,127800000.0,True,True
+Barbri Inc,1,False,FS KKR Capital Corp,Unknown,,1,126.9,130.5,127.0,126900000.0,130500000.0,127000000.0,False,False
+"Activate Holdings (US) Corp. and CrossPoint Capital AS SPV, LP",1,False,Ares Capital Corporation,Software/Technology,"Provider of software services that support the management and security of computing devices, applications, data, and networks",4,125.4,49.4,119.2,125400000.0,49400000.0,119200000.0,True,True
+NCI Inc,1,False,FS KKR Capital Corp,Unknown,,4,124.6,64.3,64.7,124600000.0,64300000.0,64700000.0,False,False
+"Argenbright Holdings V, LLC, Amberstone Security Group Limited, Unifi Aviation North America LLC and Unifi Aviation Canada, Inc.",1,False,Ares Capital Corporation,Transportation & Logistics,"Provider of outsourced security guard services, outsourced facilities management and outsourced aviation services",5,124.2,62.1,124.0,124200000.0,62100000.0,124000000.0,True,True
+"PetVet Care Centers, LLC",1,False,Ares Capital Corporation,Healthcare Services,Veterinary hospital operator,1,122.2,131.4,131.4,122200000.0,131400000.0,131400000.0,True,True
+"AHR Funding Holdings, Inc. and AHR Parent Holdings, LP",1,False,Ares Capital Corporation,Healthcare Services,Provider of revenue cycle management solutions to hospitals,4,121.6,0.0,119.6,121600000.0,0.0,119600000.0,True,True
+"Production Resource Group LLC, Preferred Stock, Series A PIK",1,False,FS KKR Capital Corp,Unknown,,1,120.7,0.0,0.0,120700000.0,0.0,0.0,False,False
+Omnimax International Inc,1,False,FS KKR Capital Corp,Unknown,,1,120.3,121.2,117.3,120300000.0,121200000.0,117300000.0,False,False
+"Bausch Health Cos Inc, Revolver",1,False,FS KKR Capital Corp,Unknown,,2,120.0,0.0,120.0,120000000.0,0.0,120000000.0,False,False
+"ADG, LLC, GEDC Equity, LLC and RC IV GEDC Investor LLC (5)",1,False,Ares Capital Corporation,Healthcare Services,Dental services provider,4,118.8,58.9,176.6,118800000.0,58900000.0,176600000.0,True,True
+"Computer Data Source, LLC",1,False,Main Street Capital Corporation,Other,Third Party Maintenance Provider to the Data Center Ecosystem,8,118.34,50.12,102.45,118339000.0,50118000.0,102451000.0,True,False
+"Spectrum Vision Holdings, LLC",1,False,Prospect Capital Corporation,Unknown,,5,117.88,58.94,117.88,117878000.0,58939000.0,117878000.0,False,False
+"Trinseo Materials Operating SCA / Trinseo Materials Finance Inc, Revolver",1,False,FS KKR Capital Corp,Unknown,,2,117.7,0.0,117.0,117700000.0,0.0,117000000.0,False,False
+Pathway Vet Alliance LLC and Jedi Group Holdings LLC,1,False,Ares Capital Corporation,Healthcare Services,Veterinary hospital operator,3,117.6,76.3,164.6,117600000.0,76300000.0,164600000.0,True,True
+TCP Hawker Intermediate LLC,1,False,Ares Capital Corporation,Other,Workforce management solutions provider,5,115.8,57.9,112.4,115800000.0,57900000.0,112400000.0,True,False
+Lakefield Veterinary Group,1,False,FS KKR Capital Corp,Unknown,,2,115.3,80.4,117.5,115300000.0,80400000.0,117500000.0,False,False
+"FlyWheel Acquireco, Inc.",1,False,Ares Capital Corporation,Business Services,"Professional employer organization offering human resources, compliance and risk management services",3,115.0,57.5,115.0,115000000.0,57500000.0,115000000.0,True,True
+Net Lease,1,False,New Mountain Finance Corporation,Unknown,,3,114.79,0.0,81.37,114794000.0,0.0,81370000.0,False,False
+TIBCO Software Inc,1,False,FS KKR Capital Corp,Unknown,,3,114.5,15.8,120.0,114500000.0,15800000.0,120000000.0,False,False
+"Tamarack Intermediate, L.L.C. and Tamarack Parent, L.L.C.",1,False,Ares Capital Corporation,Software/Technology,"Provider of environment, health, safety, and sustainability software",5,114.4,51.0,112.2,114400000.0,51000000.0,112200000.0,True,True
+"Kellermeyer Bergensons Services, LLC and KBS TopCo, LLC",1,False,Ares Capital Corporation,Real Estate,Provider of janitorial and facilities management services,4,114.2,55.7,125.2,114200000.0,55700000.0,125200000.0,True,True
+"LGC US FINCO, LLC",1,False,Prospect Capital Corporation,Unknown,,4,113.81,57.82,114.99,113810000.0,57817000.0,114988000.0,False,False
+"Orttech Holdings, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,"Distributor of Industrial Clutches, Brakes and Other Components",5,113.59,44.0,95.74,113590000.0,44000000.0,95740000.0,True,True
+Lipari Foods LLC,1,False,FS KKR Capital Corp,Unknown,,2,113.1,114.3,113.4,113100000.0,114300000.0,113400000.0,False,False
+Burgess Point Purchaser Corporation,1,False,Prospect Capital Corporation,Unknown,,4,113.03,60.0,120.0,113030000.0,60000000.0,120000000.0,False,False
+NMFC Senior Loan Program IV LLC,1,False,New Mountain Finance Corporation,Unknown,,1,112.4,0.0,0.0,112400000.0,0.0,0.0,False,False
+Investment Fund,1,False,New Mountain Finance Corporation,Unknown,,2,112.4,3.23,112.4,112400000.0,3232000.0,112400000.0,False,False
+HM Dunn Co Inc,1,False,FS KKR Capital Corp,Unknown,,6,111.6,76.0,76.0,111600000.0,76000000.0,76000000.0,False,False
+Motion Recruitment Partners LLC,1,False,FS KKR Capital Corp,Unknown,,1,111.3,114.5,112.1,111300000.0,114500000.0,112100000.0,False,False
+Distribution & Logistics,1,False,New Mountain Finance Corporation,Unknown,,18,110.22,314.94,139.57,110221000.0,314937000.0,139574000.0,False,False
+"Capstone Acquisition Holdings, Inc., Capstone Logistics Holdings, Inc. and Capstone Parent Holdings, LP",1,False,Ares Capital Corporation,Retail,Outsourced supply chain solutions provider to operators of distribution centers,3,110.1,94.1,101.4,110100000.0,94100000.0,101400000.0,True,True
+"Pluralsight, LLC and Pluralsight Holdings, LLC and Paradigmatic Holdco LLC (4)",1,False,Ares Capital Corporation,Software/Technology,Online education learning platform,4,109.8,41.2,111.0,109800000.0,41200000.0,111000000.0,True,True
+"TalkTalk Telecom Group Ltd, Revolver",1,False,FS KKR Capital Corp,Unknown,,4,109.6,0.0,109.1,109600000.0,0.0,109100000.0,False,False
+Source Code LLC,1,False,FS KKR Capital Corp,Unknown,,3,109.1,109.1,107.9,109100000.0,109100000.0,107900000.0,False,False
+"Discovery Point Retreat, LLC",1,False,Prospect Capital Corporation,Unknown,,6,109.06,17.9,88.04,109065000.0,17900000.0,88045000.0,False,False
+Sweeping Corp of America Inc,1,False,FS KKR Capital Corp,Unknown,,6,108.9,128.8,126.5,108900000.0,128800000.0,126500000.0,False,False
+"Appriss Health, LLC and Appriss Health Intermediate Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,"Software platform for identification, prevention and management of substance use disorder",3,107.4,5.5,107.4,107400000.0,5500000.0,107400000.0,True,True
+OEConnection LLC,1,False,FS KKR Capital Corp,Unknown,,5,107.3,99.1,107.8,107300000.0,99100000.0,107800000.0,False,False
+"Reception Purchaser, LLC",1,False,Prospect Capital Corporation,Unknown,,2,107.08,62.26,123.04,107078000.0,62255000.0,123044000.0,False,False
+"PSC Parent, Inc.",1,False,Ares Capital Corporation,Other,Provider of operational services for US petrochemical and refining companies,3,105.6,52.8,105.6,105600000.0,52800000.0,105600000.0,True,False
+"IG Investor, LLC",1,False,Main Street Capital Corporation,Other,Military and Other Tactical Gear,4,102.6,37.26,102.6,102598000.0,37264000.0,102598000.0,True,False
+Arcfield Acquisition Corp,1,False,FS KKR Capital Corp,Unknown,,3,101.6,101.6,101.2,101600000.0,101600000.0,101200000.0,False,False
+Reliant Rehab Hospital Cincinnati LLC,1,False,FS KKR Capital Corp,Unknown,,5,101.6,184.6,172.7,101600000.0,184600000.0,172700000.0,False,False
+Advania Sverige AB,1,False,FS KKR Capital Corp,Unknown,,2,101.2,0.0,116.9,101200000.0,0.0,116900000.0,False,False
+"Raptor Technologies, LLC, Sycamore Bidco LTD and Rocket Parent, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of SaaS-based safety and security software to the K-12 school market,6,101.0,41.6,90.2,101000000.0,41600000.0,90200000.0,True,True
+"SIO2 Medical Products, Inc.",1,False,Oaktree Specialty Lending Corporation,Unknown,,14,100.65,60.12,0.0,100650000.0,60123000.0,0.0,False,False
+"Priority Waste Holdings LLC, Priority Waste Holdings Indiana LLC and Priority Waste Super Holdings, LLC",1,False,Ares Capital Corporation,Other,Solid waste services provider,5,100.4,45.5,91.6,100400000.0,45500000.0,91600000.0,True,False
+"KKR Chord IP Aggregator LP, Partnership Interest",1,False,FS KKR Capital Corp,Unknown,,2,100.0,89528513.0,89.6,100000000.0,89528513000000.0,89600000.0,False,False
+"Affordable Care Inc, Preferred Stock",1,False,FS KKR Capital Corp,Unknown,,2,99.9,0.0,0.0,99900000.0,0.0,0.0,False,False
+"Spaceship Purchaser, Inc.",1,False,Ares Capital Corporation,Software/Technology,SaaS based website builder and hosting platform,1,99.7,100.7,100.7,99700000.0,100700000.0,100700000.0,True,True
+"CBT Nuggets, LLC",1,False,Main Street Capital Corporation,Education,Produces and Sells IT Training Certification Videos,2,99.67,0.0,2.6,99670000.0,0.0,2600000.0,True,True
+OCSI Glick JV LLC,1,False,Oaktree Specialty Lending Corporation,Unknown,,2,98.91,116.7,0.0,98913000.0,116698000.0,0.0,False,False
+Coregistics Buyer LLC,1,False,Main Street Capital Corporation,Other,Contract Packaging Service Provider,5,98.6,51.52,100.73,98596000.0,51522000.0,100728000.0,True,False
+Spotless Brands LLC,1,False,FS KKR Capital Corp,Unknown,,5,98.3,97.8,96.8,98300000.0,97800000.0,96800000.0,False,False
+Worldwise Inc,1,False,FS KKR Capital Corp,Unknown,,6,97.0,103.9,103.8,97000000.0,103900000.0,103800000.0,False,False
+"OMH-HealthEdge Holdings, LLC",1,False,Ares Capital Corporation,Healthcare Services,Revenue cycle management provider to the healthcare industry,1,96.9,96.9,96.9,96900000.0,96900000.0,96900000.0,True,True
+"Tempus AI, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of technology enabled precision medicine solutions,2,96.8,96.8,96.8,96800000.0,96800000.0,96800000.0,True,True
+"American Nuts, LLC",1,False,Main Street Capital Corporation,Other,"Roaster, Mixer and Packager of Bulk Nuts and Seeds",10,96.38,66.69,132.24,96380000.0,66692000.0,132240000.0,True,False
+"NM NL Holdings, L.P.",1,False,New Mountain Finance Corporation,Unknown,,1,96.07,0.0,0.0,96071000.0,0.0,0.0,False,False
+Vitesse Systems,1,False,Main Street Capital Corporation,Software/Technology,Component Manufacturing and Machining Platform,3,95.74,47.87,93.84,95740000.0,47870000.0,93836000.0,True,True
+Rosa Mexicano,1,False,Prospect Capital Corporation,Unknown,,6,95.6,56.07,112.13,95598000.0,56067000.0,112134000.0,False,False
+"Vehicle Secured Funding Trust, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,94.9,94927993.0,94.9,94900000.0,94927993000000.0,94900000.0,False,False
+"TDC LLP, Preferred Equity",1,False,FS KKR Capital Corp,Unknown,,4,94.4,0.0,63.6,94400000.0,0.0,63600000.0,False,False
+Verify Diagnostics LLC,1,False,Prospect Capital Corporation,Unknown,,3,93.89,37.5,93.5,93890000.0,37500000.0,93500000.0,False,False
+Digital Products Holdings LLC,1,False,Main Street Capital Corporation,Other,Designer and Distributor of Consumer Electronics,6,93.56,27.49,92.64,93564000.0,27490000.0,92642000.0,True,False
+Community Brands Inc,1,False,FS KKR Capital Corp,Unknown,,5,93.2,93.8,92.8,93200000.0,93800000.0,92800000.0,False,False
+Lucky US BuyerCo LLC,1,False,Prospect Capital Corporation,Unknown,,6,92.83,46.42,92.83,92830000.0,46415000.0,92830000.0,False,False
+"UniTek Global Services, Inc.",1,False,New Mountain Finance Corporation,Unknown,,1,92.0,0.0,0.0,91999000.0,0.0,0.0,False,False
+DFC Global Facility Borrower III LLC,1,False,Ares Capital Corporation,Financial Services,Non-bank provider of alternative financial services,1,91.4,91.3,98.3,91400000.0,91300000.0,98300000.0,True,True
+"Robbins Bros. Jewelry, Inc.",1,False,Main Street Capital Corporation,Retail,Bridal Jewelry Retailer,8,90.59,67.77,177.22,90590000.0,67770000.0,177216000.0,True,True
+"STG Distribution, LLC (f/k/a Reception Purchaser, LLC)",1,False,Prospect Capital Corporation,Unknown,,3,89.44,58.19,130.5,89440000.0,58191000.0,130497000.0,False,False
+DOXA Insurance Holdings LLC,1,False,FS KKR Capital Corp,Unknown,,7,89.0,44.3,88.6,89000000.0,44300000.0,88600000.0,False,False
+"UPS Intermediate, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,"Provider of Maintenance, Repair, and Overhaul Services for Industrial Equipment Serving the Refining, Chemical, Midstream, Renewables, Power, and Utilities End Markets",3,88.69,43.34,88.0,88694000.0,43339000.0,88002000.0,True,True
+"Callodine Commercial Finance LLC, 2L Term Loan A",1,False,FS KKR Capital Corp,Unknown,,1,88.4,0.0,86.2,88400000.0,0.0,86200000.0,False,False
+Laboratories Bidco LLC and Laboratories Topco LLC,1,False,Ares Capital Corporation,Other,Lab testing services for nicotine containing products,8,87.0,54.3,121.6,87000000.0,54300000.0,121600000.0,True,False
+"Cybermedia Technologies, LLC",1,False,Main Street Capital Corporation,Software/Technology,IT and Digital Services Provider,3,86.78,28.64,86.78,86778000.0,28638000.0,86778000.0,True,True
+"Boostability Parent, Inc.",1,False,Prospect Capital Corporation,Unknown,,2,85.54,42.77,85.54,85540000.0,42770000.0,85540000.0,False,False
+"Nello Industries Investco, LLC",1,False,Main Street Capital Corporation,Telecommunications,Manufacturer of Steel Poles and Towers For Critical Infrastructure,4,85.01,27.2,78.13,85006000.0,27200000.0,78126000.0,True,True
+Encora Digital LLC,1,False,FS KKR Capital Corp,Unknown,,2,84.7,65.1,83.5,84700000.0,65099999.99999999,83500000.0,False,False
+"Callodine Commercial Finance LLC, 2L Term Loan B",1,False,FS KKR Capital Corp,Unknown,,3,84.5,0.0,84.2,84500000.0,0.0,84200000.0,False,False
+"Diligent Corporation and Diligent Preferred Issuer, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of secure SaaS solutions for board and leadership team documents,3,84.0,23.5,83.8,84000000.0,23500000.0,83800000.0,True,True
+"Curia Global Inc, Revolver",1,False,FS KKR Capital Corp,Unknown,,2,83.3,0.0,83.3,83300000.0,0.0,83300000.0,False,False
+"VPP Intermediate Holdings, LLC and VPP Group Holdings, L.P.",1,False,Ares Capital Corporation,Healthcare Services,Veterinary hospital operator,7,83.2,29.6,74.4,83200000.0,29600000.0,74400000.0,True,True
+"TEC Services, LLC",1,False,Main Street Capital Corporation,Food & Beverage,Provider of Janitorial Service for Food Retailers,4,82.98,42.33,82.98,82980000.0,42333000.0,82980000.0,True,True
+Revere Superior Holdings Inc,1,False,FS KKR Capital Corp,Unknown,,4,82.2,82.3,81.3,82200000.0,82300000.0,81300000.0,False,False
+"Capital Automotive LP, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,2,81.6,0.0,80.5,81600000.0,0.0,80500000.0,False,False
+"PDI TA Holdings, Inc., Peachtree Parent, Inc. and Insight PDI Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of enterprise management software for the convenience retail and petroleum wholesale market,5,81.4,6.7,75.8,81400000.0,6700000.0,75800000.0,True,True
+"North Star Acquisitionco, LLC and Toucan Bidco Limited",1,False,Ares Capital Corporation,Software/Technology,Literacy solution software provider for grades k-12,5,80.4,40.3,81.2,80400000.0,40300000.0,81200000.0,True,True
+"Voya CLO 2017-3, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,80.3,44.88,98.03,80304000.0,44885000.0,98034000.0,False,False
+Miami Beach Medical Group LLC,1,False,FS KKR Capital Corp,Unknown,,3,80.3,139.2,127.6,80300000.0,139200000.0,127600000.0,False,False
+Nordic Climate Group Holding AB,1,False,FS KKR Capital Corp,Unknown,,3,79.5,0.0,82.0,79500000.0,0.0,82000000.0,False,False
+"HH-Stella, Inc. and Bedrock Parent Holdings, LP",1,False,Ares Capital Corporation,Other,Provider of municipal solid waste transfer management services,6,79.2,36.3,79.2,79200000.0,36300000.0,79200000.0,True,False
+"NuStep, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,"Designer, Manufacturer and Distributor of Fitness Equipment",5,79.18,22.04,73.38,79178000.0,22040000.0,73380000.0,True,True
+"My Community Homes PropCo 2, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,78.8,81136364.0,81.1,78800000.0,81136364000000.0,81100000.0,False,False
+Gracent LLC,1,False,FS KKR Capital Corp,Unknown,,3,78.6,60.2,54.2,78600000.0,60200000.0,54200000.0,False,False
+"PayPal Europe Sarl et Cie SCA, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,78.1,70197743.0,76.2,78100000.0,70197743000000.0,76200000.0,False,False
+"Computer Services, Inc.",1,False,Ares Capital Corporation,Software/Technology,Infrastructure software provider to community banks,4,78.0,39.0,78.0,78000000.0,39000000.0,78000000.0,True,True
+Magna Legal Services LLC,1,False,FS KKR Capital Corp,Unknown,,9,78.0,55.0,77.4,78000000.0,55000000.0,77400000.0,False,False
+"Julie Lindsey, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,77.6,38.8,77.6,77600000.0,38800000.0,77600000.0,False,False
+"Shutterfly Finance, LLC",1,False,Prospect Capital Corporation,Unknown,,6,77.47,42.7,85.44,77466000.0,42701000.0,85442000.0,False,False
+MRI Software LLC,1,False,Ares Capital Corporation,Software/Technology,Provider of real estate and investment management software,4,77.0,38.5,77.0,77000000.0,38500000.0,77000000.0,True,True
+Consumer Products,1,False,New Mountain Finance Corporation,Unknown,,10,76.62,42.45,82.71,76619000.0,42448000.0,82709000.0,False,False
+Highgate Hotels Inc,1,False,FS KKR Capital Corp,Unknown,,4,76.0,76.0,75.3,76000000.0,76000000.0,75300000.0,False,False
+"Olympia Acquisition, Inc., Olympia TopCo, L.P., and Asclepius Holdings LLC (5)",1,False,Ares Capital Corporation,Software/Technology,Behavioral health and special education platform provider,6,76.0,81.7,151.6,76000000.0,81700000.0,151600000.0,True,True
+Element Materials Technology Group US Holdings Inc,1,False,FS KKR Capital Corp,Unknown,,3,75.9,78.9,78.1,75900000.0,78900000.0,78100000.0,False,False
+VVS Holdco LLC,1,False,Main Street Capital Corporation,Retail,Omnichannel Retailer of Animal Health Products,3,75.8,25.76,75.8,75802000.0,25760000.0,75802000.0,True,True
+NexRev LLC,1,False,Main Street Capital Corporation,Energy & Utilities,Provider of Energy Efficiency Products & Services,6,75.64,19.62,71.96,75644000.0,19622000.0,71960000.0,True,True
+Radwell International LLC/PA,1,False,FS KKR Capital Corp,Unknown,,4,75.6,74.3,74.3,75600000.0,74300000.0,74300000.0,False,False
+"Avalign Holdings, Inc. and Avalign Technologies, Inc.",1,False,Ares Capital Corporation,Healthcare Services,Full-service contract manufacturer of medical device components for the orthopedic OEM industry,3,75.2,40.5,81.0,75200000.0,40500000.0,81000000.0,True,True
+Wellful Inc.,1,False,Prospect Capital Corporation,Unknown,,5,74.64,46.24,90.61,74644000.0,46242000.0,90606000.0,False,False
+Parts Town LLC,1,False,FS KKR Capital Corp,Unknown,,1,74.3,74.5,74.0,74300000.0,74500000.0,74000000.0,False,False
+"Trantech Radiator Topco, LLC",1,False,Main Street Capital Corporation,Other,Transformer Cooling Products and Services,8,74.17,15.84,50.15,74168000.0,15840000.0,50148000.0,True,False
+Denali Holdco LLC and Denali Apexco LP,1,False,Ares Capital Corporation,Software/Technology,Provider of cybersecurity audit and assessment services,3,73.8,33.3,71.6,73800000.0,33299999.999999996,71600000.0,True,True
+Net Documents,1,False,FS KKR Capital Corp,Unknown,,6,73.7,73.3,73.0,73700000.0,73300000.0,73000000.0,False,False
+"Wellpath Holdings, Inc.",1,False,Prospect Capital Corporation,Unknown,,3,73.43,51.09,101.66,73432000.0,51091000.0,101658000.0,False,False
+Heritage Environmental Services Inc,1,False,FS KKR Capital Corp,Unknown,,4,73.2,72.6,72.2,73200000.0,72600000.0,72200000.0,False,False
+DuBois Chemicals Inc,1,False,FS KKR Capital Corp,Unknown,,3,73.2,73.1,72.9,73200000.0,73100000.0,72900000.0,False,False
+"Barracuda Parent, LLC",1,False,Prospect Capital Corporation,Unknown,,4,72.38,40.0,78.33,72378000.0,40000000.0,78326000.0,False,False
+"Avalara, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of cloud-based solutions for transaction tax compliance worldwide,1,72.2,72.2,72.2,72200000.0,72200000.0,72200000.0,True,True
+"CenterPeak Holdings, LLC",1,False,Main Street Capital Corporation,Other,Executive Search Services,4,72.11,21.51,50.08,72114000.0,21507000.0,50082000.0,True,False
+KM2 Solutions LLC,1,False,Prospect Capital Corporation,Unknown,,4,70.98,35.57,71.15,70980000.0,35574000.0,71148000.0,False,False
+"Sapphire Software Buyer, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of application security testing solutions,1,70.8,71.6,71.6,70800000.0,71600000.0,71600000.0,True,True
+"Schill Landscaping and Lawn Care Services LLC, Tender Lawn Care ULC and Landscape Parallel Partners, L.P. (15)",1,False,Ares Capital Corporation,Other,"Provider of landscape design and planning, and snow removal services",4,70.8,4.0,51.0,70800000.0,4000000.0,51000000.0,True,False
+"Upstream Newco, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,70.5,44.0,87.7,70502000.0,44000000.0,87702000.0,False,False
+Titan Meter Midco Corp.,1,False,Main Street Capital Corporation,Energy & Utilities,Value Added Distributor of a Variety of Metering and Measurement Products and Solutions to the Energy Industry,4,70.44,33.93,68.1,70444000.0,33927000.0,68102000.0,True,True
+"Mystic Logistics Holdings, LLC",1,False,Main Street Capital Corporation,Retail,Logistics and Distribution Services Provider for Large Volume Mailers,4,70.02,11.49,22.66,70018000.0,11492000.0,22663000.0,True,True
+Apidos CLO XXII,1,False,Prospect Capital Corporation,Unknown,,4,69.32,71.71,85.75,69320000.0,71710000.0,85746000.0,False,False
+Affordable Care Inc,1,False,FS KKR Capital Corp,Unknown,,5,69.1,67.9,69.7,69100000.0,67900000.0,69700000.0,False,False
+Energy,1,False,New Mountain Finance Corporation,Unknown,,9,69.02,27811.65,90.58,69016000.0,27811651000.0,90582000.0,False,False
+"Metalforming Holdings, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Distributor of Sheet Metal Folding and Metal Forming Equipment,5,68.16,20.96,56.57,68160000.0,20961000.0,56572000.0,True,True
+"New WPCC Parent, LLC",1,False,Prospect Capital Corporation,Unknown,,4,67.94,0.0,38.61,67943000.0,0.0,38612000.0,False,False
+"Kickhaefer Manufacturing Company, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Precision Metal Parts Manufacturing,5,67.73,18.96,64.29,67726000.0,18958000.0,64290000.0,True,True
+"Absolute Dental Group LLC and Absolute Dental Equity, LLC (5)",1,False,Ares Capital Corporation,Healthcare Services,Dental services provider,3,67.3,55.8,72.0,67300000.0,55800000.0,72000000.0,True,True
+"RTI Surgical, Inc. and Pioneer Surgical Technology, Inc.",1,False,Ares Capital Corporation,Industrial/Manufacturing,"Manufacturer of biologic, metal and synthetic implants/devices",3,67.2,33.6,67.2,67200000.0,33600000.0,67200000.0,True,True
+"Batjer TopCo, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,HVAC Mechanical Contractor,10,66.8,22.14,60.41,66800000.0,22140000.0,60414000.0,True,True
+"GS HVAM Intermediate, LLC",1,False,Main Street Capital Corporation,Food & Beverage,Specialized Food Distributor,12,65.91,32.96,65.66,65910000.0,32964000.0,65658000.0,True,True
+Apidos CLO XV,1,False,Prospect Capital Corporation,Unknown,,4,65.62,97.03,74.74,65622000.0,97030000.0,74744000.0,False,False
+"Global Lending Services LLC, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,4,65.4,61017083.0,61.2,65400000.0,61017083000000.0,61200000.0,False,False
+"Slick Innovations, LLC",1,False,Main Street Capital Corporation,Software/Technology,Text Message Marketing Platform,6,65.02,27.76,55.96,65020000.0,27760000.0,55964000.0,True,True
+Food & Beverage,1,False,New Mountain Finance Corporation,Unknown,,2,64.5,66.23,59.21,64505000.0,66230000.0,59210000.0,False,False
+Apidos CLO XI,1,False,Prospect Capital Corporation,Unknown,,2,64.47,67.78,77.65,64470000.0,67783000.0,77650000.0,False,False
+GradeEight Corp.,1,False,Main Street Capital Corporation,Industrial/Manufacturing,Distributor of Maintenance and Repair Parts,5,64.45,31.6,64.45,64448000.0,31603000.0,64448000.0,True,True
+"My Community Homes PropCo 2, Term Loan",1,False,FS KKR Capital Corp,Unknown,,1,64.4,0.0,64.4,64400000.00000001,0.0,64400000.00000001,False,False
+Echelon Transportation LLC,1,False,Prospect Capital Corporation,Unknown,,1,64.2,0.0,0.0,64198000.0,0.0,0.0,False,False
+Lazer Logistics Inc,1,False,FS KKR Capital Corp,Unknown,,7,64.0,63.7,63.4,64000000.0,63700000.0,63400000.0,False,False
+Aero Operating LLC,1,False,Ares Capital Corporation,Other,Provider of snow removal and melting service for airports and marine terminals,3,63.6,37.3,74.6,63600000.0,37300000.0,74600000.0,True,False
+"Vehicle Secured Funding Trust, Term Loan",1,False,FS KKR Capital Corp,Unknown,,1,63.3,0.0,63.3,63300000.0,0.0,63300000.0,False,False
+Superior Rigging & Erecting Co.,1,False,Main Street Capital Corporation,Other,"Provider of Steel Erecting, Crane Rental & Rigging Services",4,63.26,20.5,54.35,63264000.0,20500000.0,54354000.0,True,False
+"New Permian Holdco, Inc. / New Permian Holdco, L.L.C.",1,False,New Mountain Finance Corporation,Unknown,,1,63.17,0.0,0.0,63170000.0,0.0,0.0,False,False
+"Corient Holdings, Inc.",1,False,Ares Capital Corporation,Financial Services,Global wealth management firm,1,63.1,0.0,41.4,63100000.0,0.0,41400000.0,True,True
+Belk Inc,1,False,FS KKR Capital Corp,Unknown,,4,62.7,153.4,91.0,62700000.0,153400000.0,91000000.0,False,False
+Veriforce LLC,1,False,FS KKR Capital Corp,Unknown,,4,62.2,40.8,62.3,62200000.0,40800000.0,62300000.0,False,False
+"8th Avenue Food & Provisions, Inc.",1,False,Prospect Capital Corporation,Unknown,,2,62.1,0.0,64.13,62098000.0,0.0,64127000.0,False,False
+BP Loenbro Holdings Inc.,1,False,Main Street Capital Corporation,Industrial/Manufacturing,Specialty Industrial Maintenance Services,5,61.94,27.37,58.41,61940000.0,27372000.0,58408000.0,True,True
+"Microbe Formulas, LLC",1,False,Main Street Capital Corporation,Food & Beverage,Nutritional Supplements Provider,4,61.85,30.96,61.1,61848000.0,30963000.0,61104000.0,True,True
+AMEREQUIP LLC,1,False,Main Street Capital Corporation,Industrial/Manufacturing,"Full Services Provider Including Design, Engineering and Manufacturing of Commercial and Agricultural Equipment",5,61.44,28.42,61.35,61438000.0,28422000.0,61352000.0,True,True
+"Pathstone Family Office LLC and Kelso XI Tailwind Co-Investment, L.P. (15)",1,False,Ares Capital Corporation,Financial Services,Provider of comprehensive wealth management services and registered investment advisor,6,61.4,28.2,60.4,61400000.0,28200000.0,60400000.0,True,True
+"Freedom Marine Solutions, LLC",1,False,Prospect Capital Corporation,Unknown,,5,61.33,0.0,186.52,61332000.0,0.0,186518000.0,False,False
+Apex Group Limited,1,False,FS KKR Capital Corp,Unknown,,4,61.1,59.9,61.2,61100000.0,59900000.0,61200000.0,False,False
+"LL Management, Inc.",1,False,Main Street Capital Corporation,Healthcare Services,Medical Transportation Service Provider,7,61.08,30.54,60.64,61076000.0,30538000.0,60644000.0,True,True
+"AI Titan Parent, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of plant maintenance / scheduling software,1,60.9,61.5,61.5,60900000.0,61500000.0,61500000.0,True,True
+"Prime ST LLC, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,2,60.7,0.0,118.2,60700000.0,0.0,118200000.0,False,False
+Corsearch Intermediate Inc,1,False,FS KKR Capital Corp,Unknown,,2,60.0,30.1,57.7,60000000.0,30100000.0,57700000.0,False,False
+"Watterson Brands, LLC",1,False,Main Street Capital Corporation,Other,Facility Management Services,5,59.84,31.7,62.98,59836000.0,31703000.0,62980000.0,True,False
+"Extrahop Networks, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of real-time wire data analytics solutions for application and infrastructure monitoring,3,59.8,29.9,59.8,59800000.0,29900000.0,59800000.0,True,True
+Shaw Development LLC,1,False,FS KKR Capital Corp,Unknown,,3,59.8,60.7,60.2,59800000.0,60700000.0,60200000.0,False,False
+"CIFC Funding 2016-I, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,59.71,34.0,63.67,59708000.0,34000000.0,63674000.0,False,False
+"PayPal Europe Sarl et Cie SCA, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,59.6,55605051.0,59.8,59600000.0,55605051000000.0,59800000.0,False,False
+Netsmart Technologies Inc,1,False,FS KKR Capital Corp,Unknown,,3,59.3,59.3,59.1,59300000.0,59300000.0,59100000.0,False,False
+"Anaqua Parent Holdings, Inc. & Astorg VII Co-Invest Anaqua",1,False,Ares Capital Corporation,Software/Technology,Provider of intellectual property management lifecycle software,5,59.0,16.6,43.0,59000000.0,16600000.0,43000000.0,True,True
+"Cority Software Inc., Cority Software (USA) Inc., and Cority Parent, Inc.",1,False,Ares Capital Corporation,Software/Technology,"Provider of environmental, health and safety software to track compliance data",8,59.0,28.5,57.4,59000000.0,28500000.0,57400000.0,True,True
+"801 5th Ave, Seattle, Structure Mezzanine",1,False,FS KKR Capital Corp,Unknown,,1,58.9,0.0,0.0,58900000.0,0.0,0.0,False,False
+"TPS, LLC",1,False,Prospect Capital Corporation,Unknown,,3,58.74,18.66,58.74,58740000.0,18663000.0,58740000.0,False,False
+"ISQ Hawkeye Holdco, Inc. and ISQ Hawkeye Holdings, L.P.",1,False,Ares Capital Corporation,Industrial/Manufacturing,Provider of commercial and industrial waste processing and disposal services,5,58.6,9.5,44.0,58600000.0,9500000.0,44000000.0,True,True
+New Era Technology Inc,1,False,FS KKR Capital Corp,Unknown,,4,58.5,59.5,58.3,58500000.0,59500000.0,58300000.0,False,False
+"KBK Industries, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Manufacturer of Specialty Oilfield and Industrial Products,3,57.76,3.7,8.92,57760000.0,3700000.0,8918000.0,True,True
+Moonraker AcquisitionCo LLC and Moonraker HoldCo LLC,1,False,Ares Capital Corporation,Software/Technology,Leading technology solution provider for casing and auditioning to the entertainment industry,4,57.6,25.0,60.6,57600000.0,25000000.0,60600000.0,True,True
+"Surescripts, LLC",1,False,Ares Capital Corporation,Healthcare Services,"Healthcare network for e-prescription routing, patient eligibility checks, and secure exchange of medical records",1,57.5,58.0,58.0,57500000.0,58000000.0,58000000.0,True,True
+"CIFC Funding 2014-IV-R, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,57.34,50.14,72.63,57336000.0,50143000.0,72626000.0,False,False
+"Preventics, Inc. (d/b/a Legere Pharmaceuticals)",1,False,Prospect Capital Corporation,Unknown,,9,57.03,19.6,46.5,57034000.0,19595000.0,46504000.0,False,False
+"Adams Publishing Group, LLC",1,False,Main Street Capital Corporation,Other,Local Newspaper Operator,3,56.94,29.05,58.02,56936000.0,29048000.0,58018000.0,True,False
+"Sundance Group Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of cloud-based document management and collaboration solutions,3,56.4,28.2,56.0,56400000.0,28200000.0,56000000.0,True,True
+BDO USA PA,1,False,FS KKR Capital Corp,Unknown,,2,56.2,56.5,55.4,56200000.0,56500000.0,55400000.0,False,False
+Warren Resources Inc,1,False,FS KKR Capital Corp,Unknown,,3,56.2,18.8,18.5,56200000.0,18800000.0,18500000.0,False,False
+Packaging,1,False,New Mountain Finance Corporation,Unknown,,17,56.11,29.22,55.42,56109000.0,29216000.0,55425000.0,False,False
+California Street CLO IX Ltd.,1,False,Prospect Capital Corporation,Unknown,,2,55.99,58.92,72.96,55994000.0,58915000.0,72964000.0,False,False
+"Valcourt Holdings II, LLC and Jobs Holdings, Inc.",1,False,Ares Capital Corporation,Energy & Utilities,Provider of window cleaning and building facade maintenance and restoration services,1,55.9,55.9,55.9,55900000.0,55900000.0,55900000.0,True,True
+Colonial Electric Company LLC,1,False,Main Street Capital Corporation,Industrial/Manufacturing,Provider of Electrical Contracting Services,3,55.76,14.31,43.9,55760000.0,14310000.0,43904000.0,True,True
+USES Corp.,1,False,Prospect Capital Corporation,Unknown,,6,55.5,208.34,162.42,55505000.0,208341000.0,162421000.0,False,False
+"C5 Technology Holdings, LLC",1,False,Oaktree Specialty Lending Corporation,Unknown,,2,55.28,0.0,0.0,55276000.0,0.0,0.0,False,False
+"Bettercloud, Inc.",1,False,Main Street Capital Corporation,Software/Technology,SaaS Provider of Workflow Management and Business Application Solutions,3,54.98,29.4,57.89,54976000.0,29403000.0,57888000.0,True,True
+One Call Care Management Inc,1,False,FS KKR Capital Corp,Unknown,,5,54.3,37.5,35.7,54300000.0,37500000.0,35700000.0,False,False
+"Crown CT Parent Inc., Crown CT HoldCo Inc. and Crown CT Management LLC",1,False,Ares Capital Corporation,Healthcare Services,Provider of medical devices and services for the treatment of positional plagiocephaly,5,53.8,24.1,52.6,53800000.0,24100000.0,52600000.0,True,True
+"The Ultimus Group Midco, LLC, The Ultimus Group, LLC, and The Ultimus Group Aggregator, LP",1,False,Ares Capital Corporation,Other,Provider of asset-servicing capabilities for fund managers,4,53.6,20.7,46.4,53600000.0,20700000.0,46400000.0,True,False
+"Principle Environmental, LLC",1,False,Main Street Capital Corporation,Other,Noise Abatement Service Provider,6,52.7,10.79,35.08,52701000.0,10794000.0,35078000.0,True,False
+Lloyd's Register Quality Assurance Ltd,1,False,FS KKR Capital Corp,Unknown,,5,51.7,15.1,52.7,51700000.0,15100000.0,52700000.0,False,False
+Safe-Guard Products International LLC,1,False,FS KKR Capital Corp,Unknown,,3,51.4,51.1,50.8,51400000.0,51100000.0,50800000.0,False,False
+"Beacon Pointe Harmony, LLC",1,False,Ares Capital Corporation,Financial Services,Provider of comprehensive wealth management services,5,51.2,25.6,51.2,51200000.0,25600000.0,51200000.0,True,True
+"QF Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,SaaS based electronic health record software provider,7,50.8,25.4,50.8,50800000.0,25400000.0,50800000.0,True,True
+Columbia Cent CLO 27 Limited,1,False,Prospect Capital Corporation,Unknown,,2,50.79,48.98,61.74,50794000.0,48978000.0,61744000.0,False,False
+Apidos CLO XII,1,False,Prospect Capital Corporation,Unknown,,2,50.62,52.2,58.16,50624000.0,52203000.0,58162000.0,False,False
+"Elevation Services Parent Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,Elevator service platform,4,50.2,26.2,52.4,50200000.0,26200000.0,52400000.0,True,True
+"Career Team Holdings, LLC",1,False,Main Street Capital Corporation,Education,Provider of Workforce Training and Career Development Services,4,49.98,20.34,49.5,49982000.0,20340000.0,49502000.0,True,True
+"AVEX Aviation Holdings, LLC",1,False,Main Street Capital Corporation,Retail,Specialty Aircraft Dealer & MRO Provider,4,49.87,24.6,49.32,49868000.0,24602000.0,49322000.0,True,True
+"Acumera, Inc.",1,False,Main Street Capital Corporation,Other,Managed Security Service Provider,4,49.81,24.8,49.05,49808000.0,24796000.0,49048000.0,True,False
+"Victor Technology, LLC",1,False,Prospect Capital Corporation,Unknown,,4,49.59,25.2,50.4,49594000.0,25200000.0,50400000.0,False,False
+"Compass Systems & Sales, LLC",1,False,Main Street Capital Corporation,Other,Designer of End-to-End Material Handling Solutions,5,49.49,17.2,49.5,49492000.0,17200000.0,49500000.0,True,False
+"Majesco and Magic Topco, L.P.",1,False,Ares Capital Corporation,Software/Technology,Insurance software provider,3,49.0,18.0,43.4,49000000.0,18000000.0,43400000.0,True,True
+"Rialto Management Group, LLC",1,False,Ares Capital Corporation,Software/Technology,Investment and asset management platform focused on real estate,2,49.0,24.8,49.6,49000000.0,24800000.0,49600000.0,True,True
+Advanced Dermatology & Cosmetic Surgery,1,False,FS KKR Capital Corp,Unknown,,3,48.7,49.5,48.1,48700000.0,49500000.0,48100000.0,False,False
+"Paragon 28, Inc. and Paragon Advanced Technologies, Inc.",1,False,Ares Capital Corporation,Healthcare Services,Medical device company,3,48.2,24.1,48.2,48200000.0,24100000.0,48200000.0,True,True
+"Raisin Acquisition Co, Inc.",1,False,Prospect Capital Corporation,Unknown,,3,48.05,24.03,47.19,48052000.0,24026000.0,47186000.0,False,False
+"Carlyle Global Market Strategies CLO 2016-3, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,48.02,32.2,60.91,48018000.0,32200000.0,60912000.0,False,False
+"CIFC Funding 2013-IV, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,47.84,45.5,55.06,47842000.0,45500000.0,55056000.0,False,False
+"Jet Edge International LLC, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,2,47.6,0.0,46.7,47600000.0,0.0,46700000.0,False,False
+"ArborWorks, LLC",1,False,Main Street Capital Corporation,Other,Vegetation Management Services,6,47.11,11.96,50.6,47113000.0,11958000.0,50597000.0,True,False
+"Covis Finco Sarl, Revolver",1,False,FS KKR Capital Corp,Unknown,,12,46.8,0.0,46.5,46800000.0,0.0,46500000.0,False,False
+"Symphony CLO XV, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,46.74,63.83,54.3,46742000.0,63831000.0,54302000.0,False,False
+HEADLANDS OP-CO LLC,1,False,Main Street Capital Corporation,Healthcare Services,Clinical Trial Sites Operator,4,46.61,23.36,45.92,46614000.0,23355000.0,45916000.0,True,True
+"United Sporting Companies, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,46.37,377.57,352.32,46372000.0,377568000.0,352324000.0,False,False
+"West Star Aviation Acquisition, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,"Aircraft, Aircraft Engine and Engine Parts",5,46.2,18.18,38.97,46202000.0,18181000.0,38966000.0,True,True
+"Global Lending Services LLC, Private Equity",1,False,FS KKR Capital Corp,Unknown,,3,45.9,43883829.0,44.5,45900000.0,43883829000000.0,44500000.0,False,False
+"PlayPower, Inc.",1,False,Prospect Capital Corporation,Unknown,,4,45.42,22.95,45.31,45422000.0,22954000.0,45306000.0,False,False
+Bowery Farming Inc,1,False,FS KKR Capital Corp,Unknown,,4,45.4,21.8,136.5,45400000.0,21800000.0,136500000.0,False,False
+Drogon Bidco Inc. & Drogon Aggregator LP,1,False,Ares Capital Corporation,Other,Provider of fire safety and life safety services,3,45.0,19.8,43.4,45000000.0,19800000.0,43400000.0,True,False
+SitusAMC Holdings Corp,1,False,FS KKR Capital Corp,Unknown,,2,44.3,44.1,43.9,44300000.0,44100000.0,43900000.0,False,False
+Accommodations Plus Technologies LLC and Accommodations Plus Technologies Holdings LLC,1,False,Ares Capital Corporation,Transportation & Logistics,Provider of outsourced crew accommodations and logistics management solutions to the airline industry,1,44.3,0.0,4.3,44300000.0,0.0,4300000.0,True,True
+"CQ Fluency, LLC",1,False,Main Street Capital Corporation,Other,Global Language Services Provider,8,42.9,22.08,42.59,42896000.0,22078000.0,42588000.0,True,False
+Cubic Corp,1,False,FS KKR Capital Corp,Unknown,,1,42.8,44.8,42.4,42800000.0,44800000.0,42400000.0,False,False
+"Charps, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Pipeline Maintenance and Construction,3,42.55,5.69,14.26,42548000.0,5694000.0,14258000.0,True,True
+Ardonagh Group Ltd,1,False,FS KKR Capital Corp,Unknown,,5,42.5,10.9,40.6,42500000.0,10900000.0,40600000.0,False,False
+"Tedder Industries, LLC",1,False,Main Street Capital Corporation,Consumer Products,Manufacturer of Firearm Holsters and Accessories,12,42.47,34.08,109.69,42474000.0,34080000.0,109692000.0,True,True
+"Runway Bidco, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of workload automation software,1,42.4,42.8,42.4,42400000.0,42800000.0,42400000.0,True,True
+"XIFIN, Inc. and ACP Charger Co-Invest LLC",1,False,Ares Capital Corporation,Hospitality,Revenue cycle management provider to labs,5,42.3,42.8,45.3,42300000.0,42800000.0,45300000.0,True,True
+DOC Generici Srl,1,False,FS KKR Capital Corp,Unknown,,4,42.2,4.8,38.6,42200000.0,4800000.0,38600000.0,False,False
+"Galaxy XV CLO, Ltd.",1,False,Prospect Capital Corporation,Unknown,,4,41.99,101.05,46.09,41988000.0,101050000.0,46092000.0,False,False
+Caldic BV,1,False,FS KKR Capital Corp,Unknown,,3,41.9,41.4,41.4,41900000.0,41400000.0,41400000.0,False,False
+"Brewer Crane Holdings, LLC",1,False,Main Street Capital Corporation,Other,Provider of Crane Rental and Operating Services,6,41.63,10.51,38.15,41628000.0,10514000.0,38148000.0,True,False
+Circana Group (f.k.a. NPD Group),1,False,FS KKR Capital Corp,Unknown,,6,41.5,40.7,41.1,41500000.0,40700000.0,41100000.0,False,False
+"The Hiller Companies, LLC",1,False,Ares Capital Corporation,Other,Provider of fire protection and life safety products,1,41.5,41.5,41.5,41500000.0,41500000.0,41500000.0,True,False
+"Research Now Group, LLC and Dynata, LLC",1,False,Prospect Capital Corporation,Unknown,,8,41.17,70.56,143.69,41172000.0,70559000.0,143694000.0,False,False
+"Opendoor Labs Inc, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,1,40.9,0.0,42.6,40900000.0,0.0,42600000.0,False,False
+"Edmunds Govtech, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of ERP software solutions for local governments,3,40.4,20.2,40.4,40400000.0,20200000.0,40400000.0,True,True
+Dental365 LLC,1,False,FS KKR Capital Corp,Unknown,,5,40.3,40.3,40.3,40300000.0,40300000.0,40300000.0,False,False
+LBC Woodlands Purchaser LLC and LBC Woodlands Holdings LP,1,False,Ares Capital Corporation,Business Services,Provider of human resources and workforce management solutions,3,39.8,19.1,40.6,39800000.0,19100000.0,40600000.0,True,True
+"Clad-Rex Steel, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Specialty Manufacturer of Vinyl-Clad Metal,5,39.35,7.73,30.96,39346000.0,7733000.0,30956000.0,True,True
+"Dominion Diagnostics, LLC",1,False,Oaktree Specialty Lending Corporation,Unknown,,9,39.32,25.32,0.0,39321000.0,25320000.0,0.0,False,False
+Model N Inc,1,False,FS KKR Capital Corp,Unknown,,3,39.1,39.1,38.9,39100000.0,39100000.0,38900000.0,False,False
+Internet Truckstop Group LLC,1,False,Ares Capital Corporation,Software/Technology,Provider of freight-moving lifecycle software,1,39.1,39.5,39.1,39100000.0,39500000.0,39100000.0,True,True
+"Octagon Investment Partners XV, Ltd.",1,False,Prospect Capital Corporation,Unknown,,4,39.1,84.13,43.91,39096000.0,84128000.0,43912000.0,False,False
+"Discover Financial Services, Subordinated Loan",1,False,FS KKR Capital Corp,Unknown,,2,38.9,0.0,38.9,38900000.0,0.0,38900000.0,False,False
+Alera Group Intermediate Holdings Inc,1,False,FS KKR Capital Corp,Unknown,,2,38.9,39.0,38.9,38900000.0,39000000.0,38900000.0,False,False
+Aareon AG,1,False,FS KKR Capital Corp,Unknown,,1,38.7,0.0,38.2,38700000.0,0.0,38200000.0,False,False
+"Project Alpha Intermediate Holding, Inc. and Qlik Parent, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of data visualization software for data analytics,3,38.6,0.0,15.0,38600000.0,0.0,15000000.0,True,True
+Trescal SA,1,False,FS KKR Capital Corp,Unknown,,6,38.6,10.3,38.4,38600000.0,10300000.0,38400000.0,False,False
+"Mako Steel, LP",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Self-Storage Design & Construction,3,37.95,18.97,37.61,37946000.0,18973000.0,37614000.0,True,True
+Constellis Holdings LLC,1,False,FS KKR Capital Corp,Unknown,,3,37.6,15.1,14.6,37600000.0,15100000.0,14600000.0,False,False
+Industry City TI Lessor LP,1,False,FS KKR Capital Corp,Unknown,,2,37.5,0.0,36.5,37500000.0,0.0,36500000.0,False,False
+"APG Intermediate Holdings Corporation and APG Holdings, LLC (4)",1,False,Ares Capital Corporation,Software/Technology,Aircraft performance software provider,3,37.4,13.1,45.8,37400000.0,13100000.0,45800000.0,True,True
+"GreenSky Holdings LLC, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,2,37.2,31254662.0,31.3,37200000.0,31254662000000.0,31300000.0,False,False
+Civica Group Ltd,1,False,FS KKR Capital Corp,Unknown,,5,36.9,8.6,36.4,36900000.0,8600000.0,36400000.0,False,False
+"Analytical Systems Keco Holdings, LLC",1,False,Main Street Capital Corporation,Energy & Utilities,Manufacturer of Liquid and Gas Analyzers,10,36.8,8.22,40.26,36803000.0,8220000.0,40255000.0,True,True
+"Nomi Health, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of software payment services for healthcare industry,4,36.4,18.2,36.4,36400000.0,18200000.0,36400000.0,True,True
+"Galaxy XXVIII CLO, Ltd.",1,False,Prospect Capital Corporation,Unknown,,4,36.15,79.81,39.31,36154000.0,79810000.0,39314000.0,False,False
+"W.S. Connelly & Co., LLC and WSC Ultimate Holdings, LLC",1,False,Ares Capital Corporation,Other,"Provider of agronomics products for landscapers, contractors and golf course end users",3,36.0,17.3,36.6,36000000.0,17300000.0,36600000.0,True,False
+"AAC Holdings, Inc.",1,False,Main Street Capital Corporation,Other,Substance Abuse Treatment Service Provider,4,35.95,18.09,42.41,35948000.0,18086000.0,42406000.0,True,False
+"Burning Glass Intermediate Holding Company, Inc.",1,False,Main Street Capital Corporation,Business Services,Provider of Skills-Based Labor Market Analytics,3,35.83,17.92,35.49,35830000.0,17915000.0,35488000.0,True,True
+"H.M. Dunn Co., Inc., L+875",1,False,FS KKR Capital Corp,Unknown,,1,35.8,0.0,0.0,35800000.0,0.0,0.0,False,False
+Borrower R365 Holdings LLC,1,False,Ares Capital Corporation,Software/Technology,Provider of restaurant enterprise resource planning systems,3,35.6,17.8,35.4,35600000.0,17800000.0,35400000.0,True,True
+"Superman Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of ERP software for the construction industry,1,35.4,35.5,35.5,35400000.0,35500000.0,35500000.0,True,True
+NBG Home,1,False,FS KKR Capital Corp,Unknown,,5,35.4,129.9,120.3,35400000.0,129900000.0,120300000.0,False,False
+Service Express Inc,1,False,FS KKR Capital Corp,Unknown,,3,35.4,35.5,35.4,35400000.0,35500000.0,35400000.0,False,False
+Rodeo AcquisitionCo LLC,1,False,Ares Capital Corporation,Food & Beverage,Provider of food inspection and recovery services,3,35.2,17.6,35.2,35200000.0,17600000.0,35200000.0,True,True
+Higginbotham Insurance Agency Inc,1,False,FS KKR Capital Corp,Unknown,,4,35.2,35.4,35.0,35200000.0,35400000.0,35000000.0,False,False
+"Bobcat Purchaser, LLC and Bobcat Topco, L.P.",1,False,Ares Capital Corporation,Software/Technology,Healthcare software provider,3,35.0,15.7,34.8,35000000.0,15700000.0,34800000.0,True,True
+"CP Energy - Spartan Energy Services, Inc.",1,False,Prospect Capital Corporation,Unknown,,1,34.66,0.0,8.52,34665000.0,0.0,8523000.0,False,False
+"Global Jet Capital LLC, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,3,34.0,0.0,28.1,34000000.0,0.0,28100000.0,False,False
+Rise Baking Company,1,False,FS KKR Capital Corp,Unknown,,2,33.6,33.6,33.0,33600000.0,33600000.0,33000000.0,False,False
+"Datacom, LLC",1,False,Main Street Capital Corporation,Software/Technology,Technology and Telecommunications Provider,8,33.57,17.38,44.36,33568000.0,17379000.0,44360000.0,True,True
+"ITA Holdings Group, LLC",1,False,Main Street Capital Corporation,Other,Air Ambulance Services,6,33.48,11.05,23.57,33480000.0,11050000.0,23570000.0,True,False
+"Kings Buyer, LLC",1,False,Ares Capital Corporation,Other,Provider of comprehensive outsourced waste management consolidation services,3,33.4,16.7,33.4,33400000.0,16700000.0,33400000.0,True,False
+"CIFC Funding 2013-III-R, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,33.21,44.1,37.86,33208000.0,44100000.0,37864000.0,False,False
+"United Digestive MSO Parent, LLC and Koln Co-Invest Unblocked, LP",1,False,Ares Capital Corporation,Healthcare Services,Gastroenterology physician group,4,33.2,10.7,30.6,33200000.0,10700000.0,30600000.0,True,True
+Excelitas Technologies Corp,1,False,FS KKR Capital Corp,Unknown,,7,33.2,29.8,33.2,33200000.0,29800000.0,33200000.0,False,False
+"Voya CLO 2016-3, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,33.11,28.1,42.47,33112000.0,28100000.0,42466000.0,False,False
+"Prime St LLC, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,1,33.1,0.0,0.0,33100000.0,0.0,0.0,False,False
+"Home Partners JV 2, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,3,33.0,0.0,11.4,33000000.0,0.0,11400000.0,False,False
+"AQ Sage Buyer, LLC",1,False,Ares Capital Corporation,Business Services,Provider of actuarial consulting and comprehensive wealth management services,7,33.0,10.2,33.0,33000000.0,10200000.0,33000000.0,True,True
+"Capital Automotive LP, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,32.9,20061940.0,22.1,32900000.0,20061940000000.0,22100000.0,False,False
+"LJP Purchaser, Inc. and LJP Topco, LP",1,False,Ares Capital Corporation,Other,Provider of non-hazardous solid waste and recycling services,3,32.8,9.6,31.6,32800000.0,9600000.0,31600000.0,True,False
+"Empower Payments Investor, LLC",1,False,Ares Capital Corporation,Financial Services,Financial communication and payment solutions provider,1,32.8,32.8,32.2,32799999.999999996,32799999.999999996,32200000.000000004,True,True
+"Capital Automotive LP, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,32.4,21190090.0,23.2,32400000.0,21190090000000.0,23200000.0,False,False
+Wealth Enhancement Group LLC,1,False,FS KKR Capital Corp,Unknown,,8,32.4,32.5,32.4,32400000.0,32500000.0,32400000.0,False,False
+"DTI Holdco, Inc. and OPE DTI Holdings, Inc.",1,False,Ares Capital Corporation,Business Services,Provider of legal process outsourcing and managed services,2,32.2,0.0,15.0,32200000.000000004,0.0,15000000.0,True,True
+"ESHA Research, LLC and RMCF VI CIV XLVIII, L.P.",1,False,Ares Capital Corporation,Software/Technology,Provider of nutritional information and software as a services (SaaS) compliance solutions,4,31.8,7.6,27.6,31800000.0,7600000.0,27600000.0,True,True
+Aldinger Company Inc,1,False,Ares Capital Corporation,Other,Provider of outsourced calibration and repair services,1,31.7,32.0,32.0,31700000.0,32000000.0,32000000.0,True,False
+Area Wide Protective Inc,1,False,FS KKR Capital Corp,Unknown,,2,31.3,31.3,31.2,31300000.0,31300000.0,31200000.0,False,False
+Arcos LLC/VA,1,False,FS KKR Capital Corp,Unknown,,4,31.3,34.4,34.1,31300000.0,34400000.0,34100000.0,False,False
+"MS Private Loan Fund I, LP",1,False,Main Street Capital Corporation,Financial Services,Investment Partnership,3,31.27,1.6,31.7,31268000.0,1600000.0,31700000.0,True,True
+"KKR Central Park Leasing Aggregator L.P., Partnership Interest",1,False,FS KKR Capital Corp,Unknown,,2,31.1,0.0,78.2,31100000.0,0.0,78200000.0,False,False
+"Avenue One PropCo, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,31.0,0.0,0.0,31000000.0,0.0,0.0,False,False
+Rockefeller Capital Management LP,1,False,FS KKR Capital Corp,Unknown,,2,30.9,30.7,30.5,30900000.0,30700000.0,30500000.0,False,False
+"Wealth Enhancement Group, LLC",1,False,Ares Capital Corporation,Financial Services,Wealth management and financial planning firm,6,30.8,15.4,30.8,30800000.0,15400000.0,30800000.0,True,True
+"Spark Purchaser, Inc.",1,False,Ares Capital Corporation,Software/Technology,Software platform for Medicare application process,1,30.8,30.8,30.8,30800000.0,30800000.0,30800000.0,True,True
+Bridge Capital Solutions Corporation,1,False,Main Street Capital Corporation,Financial Services,Financial Services and Cash Flow Solutions Provider,8,30.21,9.81,32.15,30206000.0,9813000.0,32154000.0,True,True
+STV Group Inc,1,False,FS KKR Capital Corp,Unknown,,4,30.2,30.1,30.0,30200000.0,30100000.0,30000000.0,False,False
+"Powin Energy Corp/NV, Revolver",1,False,FS KKR Capital Corp,Unknown,,2,30.0,0.0,30.0,30000000.0,0.0,30000000.0,False,False
+Careismatic Brands Inc,1,False,FS KKR Capital Corp,Unknown,,2,30.0,18.5,30.0,30000000.0,18500000.0,30000000.0,False,False
+Pure Fishing Inc,1,False,FS KKR Capital Corp,Unknown,,1,30.0,33.4,33.0,30000000.0,33400000.0,33000000.0,False,False
+Sorenson Communications LLC,1,False,FS KKR Capital Corp,Unknown,,1,29.5,29.6,28.4,29500000.0,29600000.0,28400000.0,False,False
+RFS Opco LLC,1,False,Ares Capital Corporation,Financial Services,Provider of wealth management services,1,29.5,29.5,29.5,29500000.0,29500000.0,29500000.0,True,True
+"Lido Advisors, LLC",1,False,Ares Capital Corporation,Financial Services,Wealth management and financial planning firm,5,29.2,14.6,29.2,29200000.0,14600000.0,29200000.0,True,True
+Insightsoftware.Com Inc,1,False,FS KKR Capital Corp,Unknown,,4,29.1,29.0,29.0,29100000.0,29000000.0,29000000.0,False,False
+"ATS Operating, LLC",1,False,Main Street Capital Corporation,Retail,For-Profit Thrift Retailer,6,29.06,14.04,29.16,29060000.0,14040000.0,29160000.0,True,True
+RA Outdoors LLC,1,False,Main Street Capital Corporation,Software/Technology,Software Solutions Provider for Outdoor Activity Management,3,28.82,15.55,30.99,28824000.0,15550000.0,30994000.0,True,True
+"PCIA SPV-3, LLC and ASE Royal Aggregator, LLC",1,False,Ares Capital Corporation,Financial Services,Provider of comprehensive wealth management services,3,28.8,6.9,26.8,28800000.0,6900000.0,26800000.0,True,True
+"CrossCountry Mortgage, LLC and CrossCountry Holdco, LLC",1,False,Ares Capital Corporation,Financial Services,Mortgage company originating loans in the retail and consumer direct channels,1,28.5,0.0,24.9,28500000.0,0.0,24900000.0,True,True
+"CompareNetworks Topco, LLC",1,False,Main Street Capital Corporation,Software/Technology,Internet Publishing and Web Search Portals,3,28.33,2.96,12.85,28326000.0,2955000.0,12846000.0,True,True
+"Viant Medical Holdings, Inc.",1,False,Ares Capital Corporation,Industrial/Manufacturing,Manufacturer of plastic and rubber components for health care equipment,1,27.9,27.6,27.5,27900000.0,27600000.0,27500000.0,True,True
+"Viper Bidco, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of SaaS based supply chain risk management solutions,2,27.8,28.1,28.2,27800000.0,28100000.0,28200000.0,True,True
+Aerin Medical Inc.,1,False,Ares Capital Corporation,Other,Developer and manufacturer of non-invasive nasal treatment solutions,3,27.8,13.1,27.6,27800000.0,13100000.0,27600000.0,True,False
+"Mills Fleet Farm Group, LLC",1,False,Main Street Capital Corporation,Retail,"Omnichannel Retailer of Work, Farm and Lifestyle Merchandise",2,27.68,0.0,27.68,27680000.0,0.0,27680000.0,True,True
+"MSC Income Fund, Inc.",1,False,Main Street Capital Corporation,Other,Business Development Company,2,26.84,0.0,27.0,26835000.0,0.0,27000000.0,True,False
+"DP Flores Holdings, LLC",1,False,Ares Capital Corporation,Other,Benefits administrator of tax-advantaged reimbursement plans,1,26.7,27.3,27.3,26700000.0,27300000.0,27300000.0,True,False
+"HealthEdge Software, Inc.",1,False,Ares Capital Corporation,Software/Technology,"Provider of financial, administrative and clinical software platforms to the healthcare industry",1,26.5,26.5,26.5,26500000.0,26500000.0,26500000.0,True,True
+"UKG Inc. and H&F Unite Partners, L.P.",1,False,Ares Capital Corporation,Software/Technology,Provider of cloud based HCM solutions for businesses,1,26.5,0.0,12.6,26500000.0,0.0,12600000.0,True,True
+"PYE-Barker Fire & Safety, LLC",1,False,Ares Capital Corporation,Other,Provider of fire protection services and products,3,26.4,13.2,26.4,26400000.0,13200000.0,26400000.0,True,False
+GI Ranger Intermediate LLC,1,False,Ares Capital Corporation,Software/Technology,Provider of payment processing services and software to healthcare providers,4,26.4,13.5,27.0,26400000.0,13500000.0,27000000.0,True,True
+Therapy Brands Holdings LLC,1,False,Ares Capital Corporation,Software/Technology,Provider of software solutions for the mental and behavioral health market segments,1,26.2,29.1,29.0,26200000.0,29100000.0,29000000.0,True,True
+Mercer Advisors Inc,1,False,FS KKR Capital Corp,Unknown,,1,25.9,25.8,25.8,25900000.0,25800000.0,25800000.0,False,False
+"ATX Networks Corp, Common Stock",1,False,FS KKR Capital Corp,Unknown,,1,25.9,0.0,0.0,25900000.0,0.0,0.0,False,False
+Consilium Safety Group AB,1,False,FS KKR Capital Corp,Unknown,,1,25.8,0.0,26.5,25800000.0,0.0,26500000.0,False,False
+"Voya CLO 2012-4, Ltd.",1,False,Prospect Capital Corporation,Unknown,,4,25.78,81.23,30.44,25782000.0,81226000.0,30444000.0,False,False
+"Synergy HomeCare Franchising, LLC and NP/Synergy Holdings, LLC",1,False,Ares Capital Corporation,Other,Franchisor of private-pay home care for the elderly,3,25.6,10.9,22.8,25600000.0,10900000.0,22800000.0,True,False
+CLEAResult Consulting Inc,1,False,FS KKR Capital Corp,Unknown,,4,25.6,25.8,25.6,25600000.0,25800000.0,25600000.0,False,False
+"Capstone Logistics Acquisition, Inc.",1,False,Prospect Capital Corporation,Unknown,,3,25.5,8.5,25.06,25500000.0,8500000.0,25058000.0,False,False
+"PDDS HoldCo, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of cloud-based dental practice management software,3,25.4,12.7,25.4,25400000.0,12700000.0,25400000.0,True,True
+"Applied Technical Services, LLC",1,False,Ares Capital Corporation,Industrial/Manufacturing,"Provider engineering, testing, and inspection services to various industrial, commercial and consumer customers",5,25.4,13.0,25.4,25400000.0,13000000.0,25400000.0,True,True
+"American Health Staffing Group, Inc.",1,False,Main Street Capital Corporation,Healthcare Services,Healthcare Temporary Staffing,6,25.4,12.71,25.27,25398000.0,12712000.0,25274000.0,True,True
+Duraserv LLC,1,False,Ares Capital Corporation,Other,Provider of commercial loading dock maintenance and remodeling services,1,25.3,25.3,25.3,25300000.0,25300000.0,25300000.0,True,False
+"Televerde, LLC",1,False,Main Street Capital Corporation,Other,Provider of Telemarketing and Data Services,6,25.15,0.0,8.03,25148000.0,0.0,8032000.0,True,False
+"HM Dunn Co Inc, Preferred Stock, Series A",1,False,FS KKR Capital Corp,Unknown,,1,25.1,0.0,0.0,25100000.0,0.0,0.0,False,False
+"Brainworks Software, LLC",1,False,Main Street Capital Corporation,Software/Technology,Advertising Sales and Newspaper Circulation Software,7,24.91,7.82,41.49,24912000.0,7817000.0,41492000.0,True,True
+"Artivion, Inc.",1,False,Ares Capital Corporation,Healthcare Services,"Manufacturer, processor and distributor of medical devices and implantable human tissues",3,24.8,12.4,24.8,24800000.0,12400000.0,24800000.0,True,True
+Granicus Inc,1,False,FS KKR Capital Corp,Unknown,,4,24.8,24.6,24.5,24800000.0,24600000.0,24500000.0,False,False
+"Smarsh Inc. and Skywalker TopCo, LLC",1,False,Ares Capital Corporation,Software/Technology,SaaS based communication archival service provider,4,24.6,1.7,16.0,24600000.0,1700000.0,16000000.0,True,True
+"Star Mountain Diversified Credit Income Fund III, LP, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,24.4,23500000.0,23.5,24400000.0,23500000000000.0,23500000.0,False,False
+"Bottomline Technologies, Inc. and Legal Spend Holdings, LLC",1,False,Ares Capital Corporation,Other,Provider of payment automation solutions,3,24.4,12.2,24.4,24400000.0,12200000.0,24400000.0,True,False
+"Mini Melts of America, LLC",1,False,Main Street Capital Corporation,Other,Manufacturer and Distributor of Branded Premium Beaded Ice Cream,6,24.26,11.7,23.93,24256000.0,11698000.0,23926000.0,True,False
+Assembled Brands Capital LLC,1,False,Oaktree Specialty Lending Corporation,Unknown,,4,24.16,0.0,0.0,24163000.0,0.0,0.0,False,False
+"Echo Purchaser, Inc.",1,False,Ares Capital Corporation,Software/Technology,"Software provider of mission critical security, supply chain, and collaboration solutions for highly regulated end markets",3,23.8,11.9,23.8,23800000.0,11900000.0,23800000.0,True,True
+"Carlyle Global Market Strategies CLO 2014-4-R, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,23.76,25.53,26.12,23764000.0,25534000.0,26116000.0,False,False
+"The Mather Group, LLC, TVG-TMG Topco, Inc., and TVG-TMG Holdings, LLC",1,False,Ares Capital Corporation,Financial Services,Provider of comprehensive wealth management services,5,23.6,7.9,30.2,23600000.0,7900000.0,30200000.0,True,True
+GTCR F Buyer Corp. and GTCR (D) Investors LP (15),1,False,Ares Capital Corporation,Software/Technology,Provider of end-to-end tech-enabled administrative services to private foundations,3,23.4,5.2,20.0,23400000.0,5200000.0,20000000.0,True,True
+"Star Mountain Diversified Credit Income Fund III, LP, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,23.4,23500000.0,23.5,23400000.0,23500000000000.0,23500000.0,False,False
+"Vehicle Secured Funding Trust, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,23.1,21111425.0,21.1,23100000.0,21111425000000.0,21100000.0,False,False
+Cadence Education LLC,1,False,FS KKR Capital Corp,Unknown,,3,22.9,22.9,22.9,22900000.0,22900000.0,22900000.0,False,False
+"Barfly Ventures, LLC",1,False,Main Street Capital Corporation,Food & Beverage,Casual Restaurant Group,6,22.84,1.42,9.18,22844000.0,1422000.0,9180000.0,True,True
+"Petvisor Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of veterinarian-focused SaaS solutions,5,22.8,11.4,22.8,22800000.0,11400000.0,22800000.0,True,True
+"MoneyThumb Acquisition, LLC",1,False,Main Street Capital Corporation,Software/Technology,Provider of Software-as-a-Service Financial File Conversion and Reconciliation,4,22.54,9.6,22.54,22536000.0,9600000.0,22536000.0,True,True
+Barings CLO 2018-III,1,False,Prospect Capital Corporation,Unknown,,4,22.52,165.62,18.85,22518000.0,165618000.0,18846000.0,False,False
+Alacrity Solutions Group LLC,1,False,FS KKR Capital Corp,Unknown,,3,22.5,22.6,22.4,22500000.0,22600000.0,22400000.0,False,False
+"SV Newco 2, Inc. and Site 2020 Incorporated",1,False,Ares Capital Corporation,Other,Provider of outsourced traffic control safety services,1,22.5,22.5,22.5,22500000.0,22500000.0,22500000.0,True,False
+"Rising Tide Holdings, Inc.",1,False,Prospect Capital Corporation,Unknown,,5,22.48,6.2,114.74,22476000.0,6198000.0,114743000.0,False,False
+Romark WM-R Ltd.,1,False,Prospect Capital Corporation,Unknown,,2,22.35,27.72,24.9,22346000.0,27725000.0,24900000.0,False,False
+"Gulf Publishing Holdings, LLC",1,False,Main Street Capital Corporation,Media & Entertainment,Energy Industry Focused Media and Publishing,7,22.22,2.4,30.55,22218000.0,2400000.0,30548000.0,True,True
+Cradle Lux Bidco S.A.R.L.,1,False,Ares Capital Corporation,Industrial/Manufacturing,Provider of consumables and equipment for ART and IVF procedures,3,22.0,11.2,22.6,22000000.0,11200000.0,22600000.0,True,True
+"NAS, LLC and Nationwide Marketing Group, LLC",1,False,Ares Capital Corporation,Software/Technology,"Buying and marketing services organization for appliance, furniture and consumer electronics dealers",5,22.0,11.2,22.4,22000000.0,11200000.0,22400000.0,True,True
+Jefferson Mill CLO Ltd.,1,False,Prospect Capital Corporation,Unknown,,2,21.91,23.59,24.78,21910000.0,23594000.0,24782000.0,False,False
+TeamSystem SpA,1,False,FS KKR Capital Corp,Unknown,,1,21.9,0.0,19.0,21900000.0,0.0,19000000.0,False,False
+PSC Group,1,False,FS KKR Capital Corp,Unknown,,4,21.7,21.6,21.5,21700000.0,21600000.0,21500000.0,False,False
+"Discover Financial Services, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,21.7,20909405.0,20.9,21700000.0,20909405000000.0,20900000.0,False,False
+Mountain View CLO IX Ltd.,1,False,Prospect Capital Corporation,Unknown,,4,21.65,95.66,23.84,21654000.0,95660000.0,23842000.0,False,False
+UP Intermediate II LLC and UPBW Blocker LLC,1,False,Ares Capital Corporation,Industrial/Manufacturing,"Provider of essential mechanical, electrical and plumbing services to commercial customers",4,21.4,4.8,22.2,21400000.0,4800000.0,22200000.0,True,True
+"Galaxy XXVII CLO, Ltd.",1,False,Prospect Capital Corporation,Unknown,,4,21.32,49.15,23.31,21316000.0,49150000.0,23308000.0,False,False
+Avetta LLC,1,False,FS KKR Capital Corp,Unknown,,3,21.2,21.3,21.1,21200000.0,21300000.0,21100000.0,False,False
+"AMCP Clean Acquisition Company, LLC",1,False,Ares Capital Corporation,Other,Provider of commercial laundry services,3,21.2,10.7,21.0,21200000.0,10700000.0,21000000.0,True,False
+"NAPCO Precast, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Precast Concrete Manufacturing,2,20.78,0.0,5.95,20780000.0,0.0,5950000.0,True,True
+"SM Wellness Holdings, Inc. and SM Holdco, LLC",1,False,Ares Capital Corporation,Other,Breast cancer screening provider,3,20.4,0.0,18.6,20400000.0,0.0,18600000.0,True,False
+"Voya CLO 2014-1, Ltd.",1,False,Prospect Capital Corporation,Unknown,,4,20.38,81.55,23.97,20380000.0,81546000.0,23970000.0,False,False
+Octagon Investment Partners 18-R Ltd.,1,False,Prospect Capital Corporation,Unknown,,2,20.35,46.02,22.53,20354000.0,46016000.0,22534000.0,False,False
+"PCS MidCo, Inc. and PCS Parent, L.P.",1,False,Ares Capital Corporation,Software/Technology,Provider of 401K recordkeeping software solutions,4,20.2,9.3,20.2,20200000.0,9300000.0,20200000.0,True,True
+"Color Intermediate, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of pre-payment integrity software solution,1,20.0,20.0,20.0,20000000.0,20000000.0,20000000.0,True,True
+"Engineered Machinery Holdings, Inc.",1,False,Prospect Capital Corporation,Unknown,,3,20.0,10.0,19.99,20000000.0,10000000.0,19988000.0,False,False
+Kickapoo Ranch Pet Resort,1,False,Prospect Capital Corporation,Unknown,,6,19.86,1.5,14.71,19860000.0,1500000.0,14712000.0,False,False
+Mai Capital Management Intermediate LLC,1,False,Ares Capital Corporation,Financial Services,Provider of comprehensive wealth management services and registered investment advisor,3,19.8,10.1,20.2,19800000.0,10100000.0,20200000.0,True,True
+"Logix Acquisition Company, LLC",1,False,Main Street Capital Corporation,Other,Competitive Local Exchange Carrier,2,19.76,24.81,24.93,19764000.0,24809000.0,24934000.0,True,False
+Solina France SASU,1,False,FS KKR Capital Corp,Unknown,,1,19.7,19.5,19.0,19700000.0,19500000.0,19000000.0,False,False
+"NCI Inc, Class C Common Stock",1,False,FS KKR Capital Corp,Unknown,,1,19.7,0.0,0.0,19700000.0,0.0,0.0,False,False
+5 Arch Income Fund 2 LLC,1,False,FS KKR Capital Corp,Unknown,,1,19.5,84.2,61.7,19500000.0,84200000.0,61700000.0,False,False
+"KKR Zeno Aggregator LP (K2 Aviation), Partnership Interest",1,False,FS KKR Capital Corp,Unknown,,2,19.0,14875459.0,13.9,19000000.0,14875459000000.0,13900000.0,False,False
+"BDB Holdings, LLC",1,False,Main Street Capital Corporation,Food & Beverage,Casual Restaurant Group,1,18.92,0.0,19.54,18920000.0,0.0,19537000.0,True,True
+"Artifact Bidco, Inc.",1,False,Ares Capital Corporation,Software/Technology,Supply chain risk management SaaS platform for global enterprise clients,1,18.9,18.9,18.9,18900000.0,18900000.0,18900000.0,True,True
+"HP RSS Buyer, Inc.",1,False,Ares Capital Corporation,Other,"Provider of road striping, and road safety related services",2,18.8,18.8,18.8,18800000.0,18800000.0,18800000.0,True,False
+"Spirit RR Holdings, Inc. and Winterfell Co-Invest SCSp",1,False,Ares Capital Corporation,Business Services,"Provider of data, analytics, news, and workflow tools to customers in the counter-cyclical distressed debt space",3,18.6,3.3,13.5,18600000.0,3300000.0,13500000.0,True,True
+"One Call Care Management Inc, Preferred Stock A",1,False,FS KKR Capital Corp,Unknown,,1,18.5,0.0,0.0,18500000.0,0.0,0.0,False,False
+"Aptean, Inc. and Aptean Acquiror Inc.",1,False,Ares Capital Corporation,Software/Technology,"Provider of CRM, ERP and supply chain software applications",1,18.4,18.4,18.2,18400000.0,18400000.0,18200000.0,True,True
+"Volusion, LLC",1,False,Main Street Capital Corporation,Software/Technology,Provider of Online Software-as-a-Service eCommerce Solutions,5,18.21,2.1,45.31,18206000.0,2100000.0,45308000.0,True,True
+"Guidepoint Security Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,Cybersecurity solutions provider,3,18.2,9.1,18.2,18200000.0,9100000.0,18200000.0,True,True
+PS Operating Company LLC and PS Op Holdings LLC (5),1,False,Ares Capital Corporation,Food & Beverage,Specialty distributor and solutions provider to the swine and poultry markets,4,18.2,24.0,58.6,18200000.0,24000000.0,58600000.0,True,True
+Convera International Holdings Limited and Convera International Financial S.A R.L.,1,False,Ares Capital Corporation,Other,Provider of B2B international payment and FX risk management solutions,4,18.0,9.0,18.0,18000000.0,9000000.0,18000000.0,True,False
+Specialty Chemicals & Materials,1,False,New Mountain Finance Corporation,Unknown,,4,17.8,235.45,15.78,17798000.0,235447000.0,15784000.0,False,False
+Carrier Fire Protection,1,False,FS KKR Capital Corp,Unknown,,5,17.4,12.3,17.5,17400000.0,12300000.0,17500000.0,False,False
+"Shermco Intermediate Holdings, Inc.",1,False,Ares Capital Corporation,Energy & Utilities,Provider of electrician services,4,17.4,8.7,17.2,17400000.0,8700000.0,17200000.0,True,True
+"GULF PACIFIC ACQUISITION, LLC",1,False,Main Street Capital Corporation,Other,Rice Processor and Merchandiser,8,17.32,8.95,17.59,17322000.0,8953000.0,17590000.0,True,False
+"Lightbeam Bidco, Inc.",1,False,Ares Capital Corporation,Other,Provider of yard management services,3,17.2,8.6,17.2,17200000.0,8600000.0,17200000.0,True,False
+"NRP Jones, LLC",1,False,Main Street Capital Corporation,Other,"Manufacturer of Hoses, Fittings and Assemblies",8,17.13,4.27,23.82,17134000.0,4271000.0,23824000.0,True,False
+Version1 Software Ltd,1,False,FS KKR Capital Corp,Unknown,,4,17.0,11.7,17.2,17000000.0,11700000.0,17200000.0,False,False
+Optimizely North America Inc. and Optimizely Sweden Holdings AB,1,False,Ares Capital Corporation,Software/Technology,Provider of web content management and digital commerce solutions,4,17.0,8.6,17.2,17000000.0,8600000.0,17200000.0,True,True
+"Icefall Parent, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of customer engagement software and integrated payments solutions,1,16.7,16.7,16.7,16700000.0,16700000.0,16700000.0,True,True
+"Lennar Corp, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,16.4,15896685.0,15.9,16399999.999999998,15896685000000.0,15900000.0,False,False
+OpenMarket Inc.,1,False,Ares Capital Corporation,Software/Technology,Provider of cloud-based mobile engagement platform,1,16.1,16.1,16.0,16100000.000000002,16100000.000000002,16000000.0,True,True
+RC V Tecmo Investor LLC,1,False,Ares Capital Corporation,Software/Technology,Technology based aggregator for facility maintenance services,1,16.0,0.0,8.3,16000000.0,0.0,8300000.000000001,True,True
+"Borden (New Dairy Opco), Common Stock",1,False,FS KKR Capital Corp,Unknown,,2,16.0,0.0,0.0,16000000.0,0.0,0.0,False,False
+"Waverly Advisors, LLC and WAAM Topco, LLC",1,False,Ares Capital Corporation,Financial Services,Wealth management and financial planning firm,4,16.0,5.0,13.4,16000000.0,5000000.0,13400000.0,True,True
+"Endeavor Bidco LLC and Endeavor TopCo, Inc.",1,False,Ares Capital Corporation,Software/Technology,Global securities finance trading platform,3,15.8,6.1,16.0,15800000.0,6100000.0,16000000.0,True,True
+SAMBA Safety Inc,1,False,FS KKR Capital Corp,Unknown,,6,15.8,15.8,15.8,15800000.0,15800000.0,15800000.0,False,False
+Bloom Fresh International Limited,1,False,FS KKR Capital Corp,Unknown,,2,15.7,0.0,15.8,15700000.0,0.0,15800000.0,False,False
+Continental Intermodal Group LP,1,False,Oaktree Specialty Lending Corporation,Unknown,,2,15.6,0.0,0.0,15604000.0,0.0,0.0,False,False
+SavATree LLC,1,False,FS KKR Capital Corp,Unknown,,3,15.6,15.8,15.7,15600000.0,15800000.0,15700000.0,False,False
+"My Community Homes PropCo 2, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,15.6,20284091.0,20.3,15600000.0,20284091000000.0,20300000.0,False,False
+"MS Private Loan Fund II, LP",1,False,Main Street Capital Corporation,Financial Services,Investment Partnership,3,15.57,0.0,14.78,15568000.0,0.0,14780000.0,True,True
+"Oneliance, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Construction Cleaning Company,4,15.54,5.44,14.21,15536000.0,5440000.0,14206000.0,True,True
+"Conservice Midco, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of outsourced utility management software and billing solutions,1,15.5,15.5,15.5,15500000.0,15500000.0,15500000.0,True,True
+LCM XIV Ltd.,1,False,Prospect Capital Corporation,Unknown,,3,15.4,99.87,17.02,15398000.0,99868000.0,17020000.0,False,False
+Carlyle C17 CLO Limited,1,False,Prospect Capital Corporation,Unknown,,2,15.35,24.87,17.25,15350000.0,24870000.0,17252000.0,False,False
+Homrich & Berg Inc,1,False,FS KKR Capital Corp,Unknown,,4,15.3,15.4,15.4,15300000.0,15400000.0,15400000.0,False,False
+"North Haven Stack Buyer, LLC",1,False,Ares Capital Corporation,Other,Provider of environmental testing services,3,15.0,15.0,15.0,15000000.0,15000000.0,15000000.0,True,False
+"Team Public Choices, LLC",1,False,Main Street Capital Corporation,Other,Home-Based Care Employment Service Provider,1,14.78,14.68,14.52,14781000.0,14683000.0,14522000.0,True,False
+"Lennar Corp, Term Loan",1,False,FS KKR Capital Corp,Unknown,,2,14.7,0.0,14.7,14700000.0,0.0,14700000.0,False,False
+Rialto Capital Management LLC,1,False,FS KKR Capital Corp,Unknown,,2,14.7,14.8,14.7,14700000.0,14800000.0,14700000.0,False,False
+"The Affiliati Network, LLC",1,False,Main Street Capital Corporation,Other,Performance Marketing Solutions,4,14.07,7.68,14.2,14069000.0,7681000.0,14197000.0,True,False
+NovaTaste Austria GmbH,1,False,FS KKR Capital Corp,Unknown,,4,14.0,5.7,14.0,14000000.0,5700000.0,14000000.0,False,False
+"QBS Parent, Inc.",1,False,Ares Capital Corporation,Software/Technology,"Provider of vertical software solutions and related implementation, migration, and integration services",1,14.0,14.1,14.1,14000000.0,14100000.0,14100000.0,True,True
+"Heavy Construction Systems Specialists, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of construction software,2,14.0,14.0,14.0,14000000.0,14000000.0,14000000.0,True,True
+"Forescout Technologies, Inc.",1,False,Ares Capital Corporation,Telecommunications,Network access control solutions provider,1,13.4,13.6,13.6,13400000.0,13600000.0,13600000.0,True,True
+"Quoizel, LLC",1,False,FS KKR Capital Corp,Unknown,,2,13.3,13.3,13.3,13300000.0,13300000.0,13300000.0,False,False
+"River Aggregates, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Processor of Construction Aggregates,2,13.24,0.0,0.74,13240000.0,0.0,738000.0,True,True
+"KKR Rocket Loans Aggregator LLC, Partnership Interest",1,False,FS KKR Capital Corp,Unknown,,2,12.6,14120345.0,14.1,12600000.0,14120345000000.0,14100000.0,False,False
+NBLY 2021-1 and KKR Nest Co-Invest L.P.,1,False,Ares Capital Corporation,Other,Operator of multiple franchise concepts primarily related to home maintenance or repairs,1,12.1,0.0,9.7,12100000.0,0.0,9700000.0,True,False
+"DriveCentric Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of CRM software to the automotive dealership industry,1,12.0,12.1,12.1,12000000.0,12100000.0,12100000.0,True,True
+"Anaplan, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of cloud-based connected planning platforms for business analytics,3,11.8,5.9,11.8,11800000.0,5899999.999999999,11800000.0,True,True
+NM CLFX LP,1,False,New Mountain Finance Corporation,Unknown,,1,11.73,0.0,0.0,11731000.0,0.0,0.0,False,False
+"All Web Leads, Inc.",1,False,Oaktree Specialty Lending Corporation,Unknown,,9,11.52,21.35,0.0,11515000.0,21346000.0,0.0,False,False
+CFC Underwriting Ltd,1,False,FS KKR Capital Corp,Unknown,,2,11.5,0.0,11.4,11500000.0,0.0,11400000.0,False,False
+"Garreco, LLC",1,False,Main Street Capital Corporation,Healthcare Services,Manufacturer and Supplier of Dental Products,4,11.4,3.09,9.78,11396000.0,3088000.0,9776000.0,True,True
+"AI Fire Buyer, Inc. and AI Fire Parent LLC",1,False,Ares Capital Corporation,Other,Provider of fire safety and life safety services,4,11.3,11.3,11.3,11300000.0,11300000.0,11300000.0,True,False
+Ping Identity Holding Corp.,1,False,Ares Capital Corporation,Other,Provider of identity and access management solutions,1,11.2,11.2,11.2,11200000.0,11200000.0,11200000.0,True,False
+"Norway_France, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,11.1,10696355.0,11.9,11100000.0,10696355000000.0,11900000.0,False,False
+Winter Services LLC,1,False,Main Street Capital Corporation,Other,Provider of Snow Removal and Ice Management Services,3,10.99,11.31,11.15,10994000.0,11314000.0,11148000.0,True,False
+"ADS Tactical, Inc.",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Value-Added Logistics and Supply Chain Provider to the Defense Industry,1,10.86,10.95,10.86,10860000.0,10952000.0,10856000.0,True,True
+Transit Technologies LLC,1,False,Ares Capital Corporation,Software/Technology,Provider of transportation management software and specialty telematics solutions,1,10.7,10.8,10.8,10700000.0,10800000.0,10800000.0,True,True
+Monica Holdco (US) Inc.,1,False,Ares Capital Corporation,Software/Technology,Investment technology and advisory firm,3,10.4,5.2,10.4,10400000.0,5200000.0,10400000.0,True,True
+HDC/HW Intermediate Holdings,1,False,Main Street Capital Corporation,Other,Managed Services and Hosting Provider,5,10.23,8.17,11.28,10229000.0,8170000.0,11282000.0,True,False
+"Quoizel, LLC, Common Stock",1,False,FS KKR Capital Corp,Unknown,,1,10.2,0.0,0.0,10200000.0,0.0,0.0,False,False
+"Student Resource Center, LLC",1,False,Main Street Capital Corporation,Education,Higher Education Services,5,10.08,10.86,19.94,10076000.0,10858000.0,19944000.0,True,True
+"UserZoom Technologies, Inc.",2,True,"Ares Capital Corporation, Main Street Capital Corporation",Software/Technology,User experience research automation software,2,9.8,9.8,9.62,9800000.0,9800000.0,9618000.0,True,True
+"Home Partners JV 2, Private Equity",1,False,FS KKR Capital Corp,Unknown,,4,9.6,4640219.0,4.6,9600000.0,4640219000000.0,4600000.0,False,False
+"RMS HoldCo II, LLC & RMS Group Holdings, Inc.",1,False,Ares Capital Corporation,Healthcare Services,"Developer of revenue cycle management solutions, process automation, analytics and integration for the healthcare industry",4,9.6,0.3,11.6,9600000.0,300000.0,11600000.0,True,True
+"Perigon Wealth Management, LLC, Perigon Wealth Advisors Holdings Company, LLC and CWC Fund I Co-Invest (Prism) LP",1,False,Ares Capital Corporation,Financial Services,Wealth management and financial planning firm,3,9.6,2.3,9.4,9600000.0,2300000.0,9400000.0,True,True
+Laboratoires Vivacy SAS,1,False,FS KKR Capital Corp,Unknown,,4,9.6,1.1,9.4,9600000.0,1100000.0,9400000.0,False,False
+NM YI LLC,1,False,New Mountain Finance Corporation,Unknown,,1,9.55,0.0,0.0,9550000.0,0.0,0.0,False,False
+"Proserv Acquisition LLC, Class A Preferred Units",1,False,FS KKR Capital Corp,Unknown,,1,9.5,0.0,0.0,9500000.0,0.0,0.0,False,False
+MAI Capital Management LLC,1,False,FS KKR Capital Corp,Unknown,,4,9.2,9.2,9.2,9200000.0,9200000.0,9200000.0,False,False
+"Drive Revel, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,9.1,7488885.0,8.1,9100000.0,7488885000000.0,8100000.0,False,False
+"Gulf Manufacturing, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Manufacturer of Specialty Fabricated Industrial Piping Products,1,9.07,0.0,2.98,9070000.0,0.0,2980000.0,True,True
+"Coupa Holdings, LLC and Coupa Software Incorporated",1,False,Ares Capital Corporation,Software/Technology,Provider of Business Spend Management software,1,9.0,9.0,9.0,9000000.0,9000000.0,9000000.0,True,True
+"ASC Interests, LLC",1,False,Main Street Capital Corporation,Education,Recreational and Educational Shooting Facility,10,8.72,4.1,14.91,8722000.0,4100000.0,14910000.0,True,True
+"Synovus Financial Corp, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,8.4,8345434.0,8.3,8400000.0,8345434000000.0,8300000.000000001,False,False
+Tekfor HoldCo (formerly Amtek Global Technology Pte Ltd),1,False,FS KKR Capital Corp,Unknown,,2,8.3,39.8,80.2,8300000.0,39800000.0,80200000.0,False,False
+"Aduro Advisors, LLC",1,False,Ares Capital Corporation,Other,Provider of fund administration services,1,8.2,8.3,8.3,8199999.999999999,8300000.000000001,8300000.000000001,True,False
+"RWA Wealth Partners, LLC",1,False,Ares Capital Corporation,Financial Services,Provider of comprehensive wealth management services,1,8.1,8.1,8.1,8100000.0,8100000.0,8100000.0,True,True
+"HighTower Holding, LLC",1,False,Ares Capital Corporation,Financial Services,"Provider of investment, financial and retirement planning services",1,8.0,8.1,7.1,8000000.0,8100000.0,7100000.0,True,True
+Zellis Holdings Ltd,1,False,FS KKR Capital Corp,Unknown,,1,7.9,0.0,8.0,7900000.0,0.0,8000000.0,False,False
+HKA,1,False,FS KKR Capital Corp,Unknown,,2,7.9,8.1,7.9,7900000.0,8100000.0,7900000.0,False,False
+U.S. TelePacific Corp.,1,False,Main Street Capital Corporation,Telecommunications,Provider of Communications and Managed Services,3,7.82,10.83,6.55,7820000.0,10828000.0,6554000.0,True,True
+Lifescan Global Corporation,1,False,Ares Capital Corporation,Healthcare Services,Provider of blood glucose monitoring systems for home and hospital use,3,7.8,11.6,19.4,7800000.0,11600000.0,19400000.0,True,True
+"One Call Care Management Inc, Preferred Stock B",1,False,FS KKR Capital Corp,Unknown,,1,7.7,0.0,0.0,7700000.0,0.0,0.0,False,False
+"Napa Management Services Corporation and ASP NAPA Holdings, LLC",1,False,Ares Capital Corporation,Other,Anesthesia management services provider,4,7.6,0.0,6.2,7600000.0,0.0,6200000.0,True,False
+"Saluda Grade Alternative Mortgage Trust 2023-LOC2, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,1,7.5,5199630.0,8.5,7500000.0,5199630000000.0,8500000.0,False,False
+"Compex Legal Services, Inc.",1,False,Ares Capital Corporation,Healthcare Services,Provider of outsourced litigated and non-litigated medical records retrieval services,3,7.4,3.7,7.4,7400000.0,3700000.0,7400000.0,True,True
+"Metatiedot Bidco OY and Metatiedot US, LLC",1,False,Ares Capital Corporation,Software/Technology,Enterprise content management platform,2,7.3,7.4,7.6,7300000.0,7400000.0,7600000.0,True,True
+"KKR Residential Opportunities I LLC, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,7.3,6285920.0,6.3,7300000.0,6285920000000.0,6300000.0,False,False
+Mountain View CLO 2013-I Ltd.,1,False,Prospect Capital Corporation,Unknown,,1,7.29,0.0,8.04,7286000.0,0.0,8036000.0,False,False
+Dechra Pharmaceuticals Ltd,1,False,FS KKR Capital Corp,Unknown,,2,7.2,3.7,7.0,7200000.0,3700000.0,7000000.0,False,False
+Arrotex Australia Group Pty Ltd,1,False,FS KKR Capital Corp,Unknown,,2,6.7,3.7,7.1,6700000.0,3700000.0,7100000.0,False,False
+"Dorado Bidco, Inc.",1,False,Ares Capital Corporation,Food & Beverage,Provider of consumer and market insights for the food and beverage industry,1,6.7,6.8,6.8,6700000.0,6800000.0,6800000.0,True,True
+Relativity ODA LLC,1,False,Ares Capital Corporation,Software/Technology,Electronic discovery document review software platform for use in litigations and investigations,1,6.6,6.6,6.6,6600000.0,6600000.0,6600000.0,True,True
+"Next Holdco, LLC",1,False,Ares Capital Corporation,Software/Technology,Provider of electronic medical record and practice management software,1,6.5,6.5,6.5,6500000.0,6500000.0,6500000.0,True,True
+"Constellis Holdings LLC, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,6.3,0.0,0.0,6300000.0,0.0,0.0,False,False
+"801 5th Ave, Seattle, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,6.3,0.0,0.0,6300000.0,0.0,0.0,False,False
+Accuride Corp,1,False,FS KKR Capital Corp,Unknown,,1,6.2,0.0,7.5,6200000.0,0.0,7500000.0,False,False
+"Priority Technology Holdings, Inc.",1,False,Ares Capital Corporation,Financial Services,Provider of merchant acquiring and payment processing solutions,1,6.2,0.0,4.0,6200000.0,0.0,4000000.0,True,True
+Valeo Foods Group Ltd,1,False,FS KKR Capital Corp,Unknown,,2,6.1,2.3,7.1,6100000.0,2300000.0,7099999.999999999,False,False
+"ProfitSolv Purchaser, Inc. and PS Co-Invest, L.P.",1,False,Ares Capital Corporation,Software/Technology,Provider of practice management software to law firms,2,6.1,6.1,6.1,6100000.0,6100000.0,6100000.0,True,True
+"Wall Street Prep, Inc.",1,False,Main Street Capital Corporation,Financial Services,Financial Training Services,4,5.93,1.76,4.29,5934000.0,1759000.0,4292000.0,True,True
+"Petrus Buyer, Inc.",1,False,Ares Capital Corporation,Business Services,Provider of REIT research data and analytics,1,5.9,5.9,5.9,5900000.0,5900000.0,5900000.0,True,True
+"Steward Partners Global Advisory, LLC and Steward Partners Investment Advisory, LLC",1,False,Ares Capital Corporation,Software/Technology,Wealth management platform,3,5.8,2.9,5.6,5800000.0,2900000.0,5600000.0,True,True
+Alpha Financial Markets Consulting PLC,1,False,FS KKR Capital Corp,Unknown,,1,5.8,4.5,5.8,5800000.0,4500000.0,5800000.0,False,False
+"KBHS Acquisition, LLC (d/b/a Alita Care, LLC)",1,False,Ares Capital Corporation,Other,Provider of behavioral health services,4,5.8,3.5,7.0,5800000.0,3500000.0,7000000.0,True,False
+"Bluestem Brands, Inc.",1,False,Main Street Capital Corporation,Retail,Multi-Channel Retailer of General Merchandise,3,5.76,5.56,4.96,5763000.0,5561000.0,4962000.0,True,True
+"Optio Invest, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,5.7,3672725.0,4.7,5700000.0,3672725000000.0,4700000.0,False,False
+"TPG IX Cardiff CI II, L.P.",1,False,Ares Capital Corporation,Financial Services,Provider of comprehensive wealth management services,1,5.7,0.0,5.8,5700000.0,0.0,5800000.0,True,True
+Novotech Pty Ltd,1,False,FS KKR Capital Corp,Unknown,,1,5.6,0.0,5.6,5600000.0,0.0,5600000.0,False,False
+"BAART Programs, Inc., MedMark Services, Inc., and Canadian Addiction Treatment Centres LP",1,False,Ares Capital Corporation,Other,Opioid treatment provider,1,5.6,5.9,5.9,5600000.0,5900000.0,5900000.0,True,False
+"Berry Aviation, Inc.",1,False,Main Street Capital Corporation,Transportation & Logistics,Charter Airline Services,3,5.52,0.0,0.0,5520000.0,0.0,0.0,True,True
+"Galaxy Universal LLC, Preferred Stock",1,False,FS KKR Capital Corp,Unknown,,1,5.5,0.0,0.0,5500000.0,0.0,0.0,False,False
+Envirotainer Ltd,1,False,FS KKR Capital Corp,Unknown,,2,5.5,0.0,5.4,5500000.0,0.0,5400000.0,False,False
+"Registrar Intermediate, LLC and PSP Registrar Co-Investment Fund, L.P.",1,False,Ares Capital Corporation,Business Services,Provider of FDA registration and consulting services,1,5.4,5.4,5.4,5400000.0,5400000.0,5400000.0,True,True
+"VRC Companies, LLC",1,False,Ares Capital Corporation,Other,Provider of records and information management services,1,5.2,5.2,5.3,5200000.0,5200000.0,5300000.0,True,False
+KPS Global LLC and Cool Group LLC,1,False,Ares Capital Corporation,Other,Manufacturer of walk-in cooler and freezer systems,1,5.1,5.2,5.2,5100000.0,5200000.0,5200000.0,True,False
+Ultra Electronics Holdings Ltd,1,False,FS KKR Capital Corp,Unknown,,3,4.9,1.7,5.0,4900000.0,1700000.0,5000000.0,False,False
+CAI Software LLC,1,False,Main Street Capital Corporation,Software/Technology,Provider of Specialized Enterprise Resource Planning Software,2,4.83,0.0,4.28,4834000.0,0.0,4284000.0,True,True
+"LivTech Purchaser, Inc.",1,False,Ares Capital Corporation,Software/Technology,"Provider of senior care end-to-end software, payments and RCM platform",1,4.8,4.9,4.9,4800000.0,4900000.0,4900000.0,True,True
+"Tectonic Financial, LLC",1,False,Main Street Capital Corporation,Financial Services,Financial Services Organization,1,4.72,0.0,2.0,4720000.0,0.0,2000000.0,True,True
+"Archer Systems, LLC",1,False,Main Street Capital Corporation,Other,Mass Tort Settlement Administration Solutions Provider,2,4.68,0.0,2.78,4680000.0,0.0,2776000.0,True,False
+"Vistar Media, Inc.",1,False,Main Street Capital Corporation,Software/Technology,Operator of Digital Out-of-Home Advertising Platform,1,4.68,0.0,0.77,4676000.0,0.0,767000.0,True,True
+"Harrison Hydra-Gen, Ltd.",1,False,Main Street Capital Corporation,Other,Manufacturer of Hydraulic Generators,1,4.66,0.0,0.72,4660000.0,0.0,718000.0,True,False
+IQN Holding Corp.,1,False,Ares Capital Corporation,Software/Technology,Provider of extended workforce management software,3,4.6,2.3,4.6,4600000.0,2300000.0,4600000.0,True,True
+"Synovus Financial Corp, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,4.6,4253710.0,4.3,4600000.0,4253710000000.0,4300000.0,False,False
+"SunPower Financial, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,4.6,3690938.0,3.7,4600000.0,3690938000000.0,3700000.0,False,False
+"Fuse, LLC",1,False,Main Street Capital Corporation,Telecommunications,Cable Networks Operator,6,4.5,3.62,8.26,4504000.0,3620000.0,8264000.0,True,True
+"SunPower Financial, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,4.5,3690938.0,3.7,4500000.0,3690938000000.0,3700000.0,False,False
+"Comprehensive EyeCare Partners, LLC",1,False,Ares Capital Corporation,Other,Vision care practice management company,3,4.4,2.3,4.6,4400000.0,2300000.0,4600000.0,True,False
+"Home Partners JV 2, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,2,4.4,0.0,0.0,4400000.0,0.0,0.0,False,False
+iNova Pharmaceuticals (Australia) Pty Limited,1,False,FS KKR Capital Corp,Unknown,,2,4.3,2.6,4.2,4300000.0,2600000.0,4200000.0,False,False
+"IV Rollover Holdings, LLC",1,False,Ares Capital Corporation,Software/Technology,"Provider of cloud based IT solutions, infrastructure and services",2,4.2,0.0,3.8,4200000.0,0.0,3800000.0,True,True
+"Ziegler’s NYPD, LLC",1,False,Main Street Capital Corporation,Food & Beverage,Casual Restaurant Group,4,4.14,1.75,11.01,4140000.0,1750000.0,11008000.0,True,True
+NewStar Clarendon 2014-1A Class D,1,False,FS KKR Capital Corp,Unknown,,2,4.1,0.0,2.8,4100000.0,0.0,2800000.0,False,False
+Turnpoint Services Inc,1,False,FS KKR Capital Corp,Unknown,,2,4.1,4.1,4.1,4100000.0,4100000.0,4100000.0,False,False
+Cliffwater LLC,1,False,Ares Capital Corporation,Financial Services,Provider of alternative investment advisory services,1,4.0,4.0,4.0,4000000.0,4000000.0,4000000.0,True,True
+"Advarra Holdings, Inc.",1,False,Ares Capital Corporation,Healthcare Services,Provider of central institutional review boards over clinical trials,1,4.0,4.0,4.0,4000000.0,4000000.0,4000000.0,True,True
+"BCTO Ignition Purchaser, Inc.",1,False,Ares Capital Corporation,Software/Technology,Enterprise software provider,1,4.0,4.0,4.0,4000000.0,4000000.0,4000000.0,True,True
+"Evolent Health LLC and Evolent Health, Inc.",1,False,Ares Capital Corporation,Software/Technology,Medical technology company focused on value based care services and payment solutions,1,4.0,0.0,3.8,4000000.0,0.0,3800000.0,True,True
+"DTE Enterprises, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Industrial Powertrain Repair and Services,6,3.96,0.0,8.3,3964000.0,0.0,8304000.0,True,True
+"Gracent LLC, Preferred Equity",1,False,FS KKR Capital Corp,Unknown,,1,3.8,0.0,0.0,3800000.0,0.0,0.0,False,False
+"Dynamic Communities, LLC",1,False,Main Street Capital Corporation,Software/Technology,Developer of Business Events and Online Community Groups,2,3.77,4.18,3.79,3771000.0,4184000.0,3792000.0,True,True
+"HarbourView CLO VII-R, Ltd.",1,False,Prospect Capital Corporation,Unknown,,2,3.68,19.02,4.28,3676000.0,19025000.0,4285000.0,False,False
+"Wellness AcquisitionCo, Inc.",1,False,Ares Capital Corporation,Business Services,"Provider of retail consumer insights and analytics for manufacturers and retailers in the natural, organic and specialty products industry",3,3.6,1.8,3.6,3600000.0,1800000.0,3600000.0,True,True
+"Convey Health Solutions, Inc.",1,False,Ares Capital Corporation,Software/Technology,Healthcare workforce management software provider,4,3.6,2.1,4.2,3600000.0,2100000.0,4200000.0,True,True
+"Thermostat Purchaser III, Inc.",1,False,Ares Capital Corporation,Industrial/Manufacturing,Provider of commercial HVAC equipment maintenance and repair services,2,3.6,3.6,3.6,3600000.0,3600000.0,3600000.0,True,True
+"LLFlex, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Provider of Metal-Based Laminates,1,3.32,4.13,4.08,3316000.0,4133000.0,4083000.0,True,True
+"Café Brazil, LLC",1,False,Main Street Capital Corporation,Food & Beverage,Casual Restaurant Group,2,3.18,0.0,3.48,3180000.0,0.0,3484000.0,True,True
+Misys Ltd,1,False,FS KKR Capital Corp,Unknown,,4,3.1,3.1,3.1,3100000.0,3100000.0,3100000.0,False,False
+"Vision Interests, Inc.",1,False,Main Street Capital Corporation,Other,Manufacturer / Installer of Commercial Signage,1,3.0,0.0,3.0,3000000.0,0.0,3000000.0,True,False
+"National HME, Inc./NHME Holdings Corp.",1,False,New Mountain Finance Corporation,Unknown,,1,3.0,0.0,0.0,3000000.0,0.0,0.0,False,False
+"GreenSky Holdings LLC, Term Loan",1,False,FS KKR Capital Corp,Unknown,,1,3.0,0.0,3.0,3000000.0,0.0,3000000.0,False,False
+"Community Brands ParentCo, LLC",1,False,Ares Capital Corporation,Software/Technology,Software and payment services provider to non-profit institutions,1,3.0,0.0,5.0,3000000.0,0.0,5000000.0,True,True
+"Classic H&G Holdings, LLC",1,False,Main Street Capital Corporation,Other,Provider of Engineered Packaging Solutions,1,2.85,0.0,0.0,2850000.0,0.0,0.0,True,False
+"Fronton BV, Common Stock",1,False,FS KKR Capital Corp,Unknown,,2,2.8,0.0,0.0,2800000.0,0.0,0.0,False,False
+"K&N HoldCo, LLC",1,False,Prospect Capital Corporation,Unknown,,4,2.79,0.0,103.0,2790000.0,0.0,102998000.0,False,False
+"Saluda Grade Alternative Mortgage Trust 2022-BC2, Structured Mezzanine",1,False,FS KKR Capital Corp,Unknown,,1,2.7,0.0,2.4,2700000.0,0.0,2400000.0,False,False
+"VORTEQ Coil Finishers, LLC",1,False,Main Street Capital Corporation,Other,Specialty Coating of Aluminum and Light-Gauge Steel,1,2.64,0.0,1.04,2640000.0,0.0,1038000.0,True,False
+"JW Aluminum Co, Common Stock",1,False,FS KKR Capital Corp,Unknown,,1,2.5,0.0,0.0,2500000.0,0.0,0.0,False,False
+Asset Based Finance,1,False,FS KKR Capital Corp,Unknown,,1,2.5,0.0,0.0,2500000.0,0.0,0.0,False,False
+"ATX Networks Corp, Class B-1 Common Stock",1,False,FS KKR Capital Corp,Unknown,,1,2.5,0.0,0.0,2500000.0,0.0,0.0,False,False
+"American Teleconferencing Services, Ltd.",1,False,Main Street Capital Corporation,Other,Provider of Audio Conferencing and Video Collaboration Solutions,6,2.46,36.01,66.86,2462000.0,36005000.0,66864000.0,True,False
+"Revalize, Inc.",1,False,Ares Capital Corporation,Software/Technology,"Developer and operator of software providing configuration, price and quote capabilities",3,2.4,1.4,2.6,2400000.0,1400000.0,2600000.0,True,True
+"Tex Tech Tennis, LLC",1,False,Main Street Capital Corporation,Other,Sporting Goods & Textiles,1,2.29,0.0,1.0,2290000.0,0.0,1000000.0,True,False
+Congruent Credit Opportunities Funds,1,False,Main Street Capital Corporation,Financial Services,Investment Partnership,1,2.28,0.0,2.81,2276000.0,0.0,2813000.0,True,True
+"Drive Revel, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,2.2,1853796.0,2.0,2200000.0,1853796000000.0,2000000.0,False,False
+"ATS Workholding, LLC",1,False,Main Street Capital Corporation,Industrial/Manufacturing,Manufacturer of Machine Cutting Tools and Accessories,8,2.11,10.5,35.18,2114000.0,10503000.0,35178000.0,True,True
+"TSS Buyer, LLC",1,False,Ares Capital Corporation,Healthcare Services,"Provider of outsourced testing, inspection, certification, and compliance services to healthcare and life sciences end markets",1,2.1,2.1,2.1,2100000.0,2100000.0,2100000.0,True,True
+"TDC LLP, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,2.0,1576060.0,2.0,2000000.0,1576060000000.0,2000000.0,False,False
+"TDC LLP, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,1.9,1576060.0,2.0,1900000.0,1576060000000.0,2000000.0,False,False
+"One Call Care Management Inc, Common Stock",1,False,FS KKR Capital Corp,Unknown,,1,1.9,0.0,0.0,1900000.0,0.0,0.0,False,False
+"SiroMed Physician Services, Inc. and SiroMed Equity Holdings, LLC",1,False,Ares Capital Corporation,Other,Outsourced anesthesia provider,1,1.7,0.0,4.8,1700000.0,0.0,4800000.0,True,False
+Saturn Purchaser Corp.,1,False,Ares Capital Corporation,Transportation & Logistics,Private aviation management company,1,1.7,1.7,1.7,1700000.0,1700000.0,1700000.0,True,True
+"EP Wealth Advisors, LLC",1,False,Ares Capital Corporation,Financial Services,Wealth management and financial planning firm,3,1.6,0.8,1.6,1600000.0,800000.0,1600000.0,True,True
+Dalton US Inc.,1,False,Main Street Capital Corporation,Other,Provider of Supplemental Labor Services,2,1.52,0.0,1.44,1520000.0,0.0,1440000.0,True,False
+"Help/Systems Holdings, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of IT operations management and cybersecurity software,1,1.5,1.7,1.7,1500000.0,1700000.0,1700000.0,True,True
+Boccella Precast Products LLC,1,False,Main Street Capital Corporation,Other,Manufacturer of Precast Hollow Core Concrete,3,1.15,0.32,5.15,1152000.0,320000.0,5152000.0,True,False
+"Proserv Acquisition LLC, Class A Common Units",1,False,FS KKR Capital Corp,Unknown,,1,1.1,0.0,0.0,1100000.0,0.0,0.0,False,False
+"NM GP Holdco, LLC",1,False,New Mountain Finance Corporation,Unknown,,1,1.05,0.0,0.0,1048000.0,0.0,0.0,False,False
+"H.M. Dunn Co., 15%",1,False,FS KKR Capital Corp,Unknown,,1,1.0,0.0,0.0,1000000.0,0.0,0.0,False,False
+"Galaxy Universal LLC, Trade Claim",1,False,FS KKR Capital Corp,Unknown,,1,1.0,0.0,0.0,1000000.0,0.0,0.0,False,False
+"BCPE Pequod Buyer, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of wealth management technology solutions to financial institutions,1,1.0,1.0,1.0,1000000.0,1000000.0,1000000.0,True,True
+"Perforce Software, Inc.",1,False,Ares Capital Corporation,Software/Technology,Developer of software used for application development,1,1.0,1.0,1.0,1000000.0,1000000.0,1000000.0,True,True
+"Systems Planning and Analysis, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of systems engineering and technical assistance,1,1.0,1.0,1.0,1000000.0,1000000.0,1000000.0,True,True
+"Optio Invest, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,1.0,810922.0,1.0,1000000.0,810922000000.0,1000000.0,False,False
+"Proofpoint, Inc.",1,False,Ares Capital Corporation,Software/Technology,Cybersecurity solutions provider,1,1.0,1.0,0.9,1000000.0,1000000.0,900000.0,True,True
+"Quality Lease Service, LLC",1,False,Main Street Capital Corporation,Hospitality,Provider of Rigsite Accommodation Unit Rentals and Related Services,2,0.92,0.0,15.09,920000.0,0.0,15092000.0,True,True
+"Quorum Health Corp, Trade Claim",1,False,FS KKR Capital Corp,Unknown,,1,0.9,0.0,0.0,900000.0,0.0,0.0,False,False
+"ATX Networks Corp, Class B-2 Common Stock",1,False,FS KKR Capital Corp,Unknown,,1,0.8,0.0,0.0,800000.0,0.0,0.0,False,False
+"Bambino Group Holdings, LLC",1,False,Ares Capital Corporation,Healthcare Services,Dental services provider,1,0.8,0.0,1.0,800000.0,0.0,1000000.0,True,True
+SoundCloud Limited,1,False,Ares Capital Corporation,Software/Technology,"Platform for receiving, sending, and distributing music",1,0.7,0.0,0.4,700000.0,0.0,400000.0,True,True
+Angelica Corp,1,False,FS KKR Capital Corp,Unknown,,1,0.7,0.0,2.7,700000.0,0.0,2700000.0,False,False
+"Businessolver.com, Inc.",1,False,Ares Capital Corporation,Software/Technology,Provider of SaaS-based benefits solutions for employers and employees,1,0.6,0.6,0.6,600000.0,600000.0,600000.0,True,True
+"Galaxy Universal LLC, Common Stock",1,False,FS KKR Capital Corp,Unknown,,1,0.5,0.0,0.0,500000.0,0.0,0.0,False,False
+"Kilter Finance, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,0.5,536709.0,0.5,500000.0,536709000000.0,500000.0,False,False
+"Kilter Finance, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,0.5,536709.0,0.5,500000.0,536709000000.0,500000.0,False,False
+"CaseWorthy, Inc.",1,False,Main Street Capital Corporation,Software/Technology,SaaS Provider of Case Management Solutions,1,0.49,0.0,0.25,490000.0,0.0,246000.0,True,True
+"Caregiver Services, Inc.",1,False,Oaktree Specialty Lending Corporation,Unknown,,1,0.43,0.0,0.0,432000.0,0.0,0.0,False,False
+"Global Lending Services LLC, Bond",1,False,FS KKR Capital Corp,Unknown,,1,0.3,0.0,0.3,300000.0,0.0,300000.0,False,False
+Sequel Youth & Family Services LLC,1,False,FS KKR Capital Corp,Unknown,,1,0.3,57.2,8.9,300000.0,57200000.0,8900000.0,False,False
+R2 Acquisition Corp.,1,False,Ares Capital Corporation,Business Services,Marketing services,1,0.3,0.0,0.2,300000.0,0.0,200000.0,True,True
+Cent CLO 21 Limited,1,False,Prospect Capital Corporation,Unknown,,3,0.19,99.1,0.0,192000.0,99104000.0,0.0,False,False
+"Binswanger Enterprises, LLC",1,False,Main Street Capital Corporation,Other,Glass Repair and Installation Service Provider,1,0.12,0.0,1.05,120000.0,0.0,1050000.0,True,False
+Halcyon Loan Advisors Funding 2015-3 Ltd.,1,False,Prospect Capital Corporation,Unknown,,3,0.12,39.6,0.12,115000.0,39598000.0,125000.0,False,False
+"Residential Opportunities I LLC, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,0.1,39.0,0.0,100000.0,39000000.0,0.0,False,False
+"Databricks, Inc.",1,False,Ares Capital Corporation,Software/Technology,Cloud-based data and AI platform that helps companies scale and manage data,1,0.1,0.1,0.1,100000.0,100000.0,100000.0,True,True
+"The Edelman Financial Center, LLC",1,False,Ares Capital Corporation,Financial Services,"Provider of investment, financial and retirement planning services",1,0.1,0.1,0.1,100000.0,100000.0,100000.0,True,True
+"Clarius BIGS, LLC",1,False,Main Street Capital Corporation,Business Services,Prints & Advertising Film Financing,2,0.04,5.33,5.33,35000.0,5326000.0,5326000.0,True,True
+Halcyon Loan Advisors Funding 2014-2 Ltd.,1,False,Prospect Capital Corporation,Unknown,,4,0.03,82.33,0.02,32000.0,82328000.0,18000.0,False,False
+NM APP CANADA CORP,1,False,New Mountain Finance Corporation,Unknown,,1,0.01,0.0,0.0,7000.0,0.0,0.0,False,False
+The Avery,1,False,Oaktree Specialty Lending Corporation,Unknown,,2,0.0,25.98,0.0,0.0,25982000.0,0.0,False,False
+"Symphony CLO XIV, Ltd.",1,False,Prospect Capital Corporation,Unknown,,1,0.0,49.25,0.0,0.0,49250000.0,0.0,False,False
+Poplicus Incorporated,1,False,Ares Capital Corporation,Software/Technology,Business intelligence and market analytics platform for companies that sell to the public sector,1,0.0,0.0,0.1,0.0,0.0,100000.0,True,True
+"Easy Gardener Products, Inc.",1,False,Prospect Capital Corporation,Unknown,,3,0.0,0.0,4.0,0.0,0.0,4002000.0,False,False
+"Center for Autism and Related Disorders, LLC",1,False,Ares Capital Corporation,Software/Technology,Autism treatment and services provider specializing in applied behavior analysis therapy,3,0.0,9.3,0.0,0.0,9300000.0,0.0,True,True
+"Prime ST LLC, Private Equity",1,False,FS KKR Capital Corp,Unknown,,1,0.0,5612193.0,7.3,0.0,5612193000000.0,7300000.0,False,False
+Business Products,1,False,New Mountain Finance Corporation,Unknown,,1,0.0,4289.0,-43.0,0.0,4289000000.0,-43000000.0,False,False
+"Byrider Finance LLC, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,0.0,54407.0,0.0,0.0,54407000000.0,0.0,False,False
+"Powin Energy Corp/NV, Warrants",1,False,FS KKR Capital Corp,Unknown,,4,0.0,2067356.0,0.0,0.0,2067356000000.0,0.0,False,False
+"Buca C, LLC",1,False,Main Street Capital Corporation,Food & Beverage,Casual Restaurant Group,5,0.0,16.01,32.57,0.0,16006000.0,32568000.0,True,True
+"Honor Technology, Inc.",1,False,Ares Capital Corporation,Other,Nursing and home care provider,1,0.0,0.0,0.1,0.0,0.0,100000.0,True,False
+"Prime ST LLC, ABF Equity",1,False,FS KKR Capital Corp,Unknown,,1,0.0,5612193.0,8.9,0.0,5612193000000.0,8900000.0,False,False
+"Rocaceia, LLC (Quality Lease and Rental Holdings, LLC)",1,False,Main Street Capital Corporation,Hospitality,Provider of Rigsite Accommodation Unit Rentals and Related Services,1,0.0,0.0,2.5,0.0,0.0,2500000.0,True,True
+"SSE Buyer, Inc., Supply Source Enterprises, Inc., Impact Products LLC, The Safety Zone, LLC and SSE Parent, LP",1,False,Ares Capital Corporation,Industrial/Manufacturing,"Manufacturer and distributor of personal protection equipment, commercial cleaning, maintenance and safety products",3,0.0,0.0,4.4,0.0,0.0,4400000.0,True,True
+Unfunded Asset Based Finance Commitments,1,False,FS KKR Capital Corp,Unknown,,2,-441.6,0.0,-441.6,-441600000.0,0.0,-441600000.0,False,False
+Unfunded Loan Commitments,1,False,FS KKR Capital Corp,Unknown,,2,-810.1,0.0,-810.1,-810100000.0,0.0,-810100000.0,False,False
